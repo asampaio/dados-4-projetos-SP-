@@ -1,0 +1,137 @@
+0ec0d5d0671d54f1b2b4a7f4006f865263802333;GoncaloRodriguesISEP;2026-10-22;added added OrderAssignmentUI(#17)
+72e92e4a2850df5b7b48a262ac0198651ebb8c8f;Santiago Ferreira;2026-10-21;Fixes to Application 2 menu
+4b1ab6919ef3d3a74d22944ffe3b237b53bdd010;Santiago Ferreira;2026-10-21;Final fixes to TransactionParser (#36)
+fa31ff033f9c56368d564e95330e354ce79a7edc;Ruben Lopes;2026-10-21;Updated Database Structure Diagram
+8f39e62ee9fcbc67e7ae80ecad4c329cb4a24b51;Ruben Lopes;2026-10-21;Updated Database Schema and Test Data
+d94ce9b21143a13e708d91dbe9670dbd73920344;Ruben Lopes;2026-10-21;Updated TransactionsController Import in PendingOrdersUIUI
+23233e22e622b8f84df328bfacf02061f1960a79;GoncaloRodriguesISEP;2026-10-21;added getAllPendingTransactions (#17)
+3721575c6ad8cc85488a56c86caa4777378924bb;GoncaloRodriguesISEP;2026-10-21;added getAllByStatus method to RobotDAO and Transaction DAO and created OrderAssignmentUI (#17)
+a2dfe0049c174b61bdf62f1eec3da415f05dadae;GoncaloRodriguesISEP;2026-10-21;added getSuitedRobots method and changed confirmTransaction (#17)
+636d4d88907099802cc9d0a7ce5cd67a704b1fd7;Santiago Ferreira;2026-10-21;Fixes to Station and Robot parsers and addition of StoreName to item (#36)
+5df387ba4606a933acab521a1aaf6c7943a78aa0;Ruben Lopes;2026-10-20;Updated TransactionsController to support Store and Product Details
+13827c8f6aa243273b9030d3852e613590010f64;Ruben Lopes;2026-10-20;Updated TransactionsDAO to retrieve Store and Product Details
+3432acc283e183a8f02869461abb206e8243ee30;Ruben Lopes;2026-10-20;Updated Transaction Model to include Store Name and Products
+427b7a2f1e438b1039cd2f035538d9f3a0811c92;Santiago2806Ferreira;2026-10-20;Merge remote-tracking branch 'origin/main'
+4618d1e2cc867307522b864f69dfa361c72721fd;Santiago2806Ferreira;2026-10-20;Update to Item class (#36)
+879b797aa519479a6230d9697161db9b0d08eabe;Afonso Bessa;2026-10-20;AdministrationUI now able to import JSONs (GeoJSONs)
+d746de5e47ae98ac89c1f9a1102cf951e9ac4976;Santiago Ferreira;2026-10-19;Continued changes to Transaction and TransactionParser (#36)
+59b3223b10c44b7c8212355313f272c93b843332;GoncaloRodriguesISEP;2026-10-19;added confirmOrder and getAllReadyRobots methods to controller
+5fe082fef607dde057d0d3d5f389ed1dbd59e273;GoncaloRodriguesISEP;2026-10-19;added order DAO and adjusted order and order status
+cc126b54c9d8a89fad74bab001e1e51d8fd4bce3;Afonso Bessa;2026-10-18;added OrderSplittingUI class
+60bb03a4a0bfb2523a489c4a72d954e8e34ddd82;Afonso Bessa;2026-10-18;added shoppingAppController test class
+9d93e1c9ffd018b116aee7319c0b17b1eb03fa05;Afonso Bessa;2026-10-18;reworked shoppingAppController class
+beee705385cbf5be9485197a1ec98e93f408d717;Afonso Bessa;2026-10-18;re organized OrderLine class
+5291422a9ecc8ca959db97736cdc2755dcb2ba68;Afonso Bessa;2026-10-18;added SubOrderDTO
+065b55bb39d438fdf7dc158c0600e9cfa3bd323e;Afonso Bessa;2026-10-18;reorganized class directory
+41858f06044c2f073512bd35f82024b66aaaa57b;Santiago Ferreira;2026-10-18;Addition of the first draft for the Requirements Document (#23)
+75c95984edd123e8339770bba3007b33cee8a271;Ruben Lopes;2026-10-18;Fixed Transaction ID Handling and Added JavaDocs to TransactionsDAO
+91f14fa1d41dbc2c86a35a5988c0ea6c77b29de3;Ruben Lopes;2026-10-18;Added Input Validation and JavaDocs to TransactionsController
+c9e50a57df81a30770a93470780bbcd306b4d377;Ruben Lopes;2026-10-18;Added Input Validation and JavaDocs to PendingOrdersUI
+03fea3a21ac1a82308e0a1895ffed9ef8fdc972b;Ruben Lopes;2026-10-18;Added JavaDocs to Transaction Model
+1bb4dc5d31c87e772a9c995be9439c8f9b7c9c63;Santiago Ferreira;2026-10-18;Merge remote-tracking branch 'origin/main'
+cc3c74e6b565dd5e8edc9037502f9b88d522bb1e;Santiago Ferreira;2026-10-18;Addition of initial Unit Tests along with class fixes (#36)
+698ee59c0d1975196af04054070bdf1042d7c755;Afonso Bessa;2026-10-17;created SubOrder subclass
+9fbb86eba79e6c963f26b29e8c1351d6d5df233e;Afonso Bessa;2026-10-17;created Payment class
+878d6a2195013c34b0a86d9f3a402b59497b371e;Afonso Bessa;2026-10-17;created OrderStatus enum
+af0368e9f18ba5a4e9a6247c9640ea214ad82635;Afonso Bessa;2026-10-17;created RobotStatus enum
+8340613b953bd45f42a9285b7070798539d1c839;Santiago Ferreira;2026-10-17;Addition of orders and robots csv files (#36)
+25cd2c19916ae061c1d51dda10fa50d865c24d63;Santiago Ferreira;2026-10-17;Changes to RobotParser and addition of a MainMenu for app2 (#36)
+9e44585c19da9c3f4a7f665ed99ada7e6e65420c;Ruben Lopes;2026-10-17;Updated PendingOrdersUI to Support String Customer IDs and Refactored Transaction Displa
+904c36c8ed82c3ade45db8b3b268981bb114384d;Ruben Lopes;2026-10-17;Updated TransactionsController to Support String Customer IDs
+3feb7e48121e722c42f4a5572f3288b717bc6416;Ruben Lopes;2026-10-17;Updated TransactionsDAO to Support String User ID and Cooling Requirement
+7c05fa4e7f77cfbee22cdfd1d25f4a86d52ddf67;Ruben Lopes;2026-10-17;Changed Transaction User ID from int to String and Added Cooling Requirement
+6ecca6e69cd6939ca2931649ffa98e3c43cbe19b;Santiago Ferreira;2026-10-17;Implementation of robotStatus parser function (#36)
+7c21097feb775d3316697d3cdac85a0e8de082e6;1241882;2026-10-17;add geojson file
+b2939f77ce86068ced802616235f7ece36fa1f0f;1241882;2026-10-17;implementation of code to USLP04 (#57) + add geojson file
+b74681cc4b1fdf49973cf1fc7b7c351829fbaabb;Santiago Ferreira;2026-10-17;Final update to USEI01 documentation (#35)
+cd77fcea662baad4589b37135d358705fa2f418b;Santiago Ferreira;2026-10-17;Addition of the robotImport to USEI01(#36)
+a11735056707858ca079dd964ac82b90fa7e8cdb;Ruben Lopes;2026-10-16;Refactored Transaction Printing and Updated Pending Order Removal UI (#51)
+8b50ece90a67f221ec11f02aeb00797a1b032dd7;Ruben Lopes;2026-10-16;Updated RemovePendingTransaction Method in TransactionsController (#51)
+58c03b9a749af88b057c8b411c64e597d487e5f6;Ruben Lopes;2026-10-16;Implemented Transaction Deletion and Find by ID in TransactionsDAO (#51)
+41113e17070a76af7633c1e74a2a4b0151b6444c;Ruben Lopes;2026-10-16;Updated Transaction Model ID Type to String (#51)
+b3fbdb4e6b40a739ff2ed88b17cbfdd5944d452f;Afonso Bessa;2026-10-16;created Item class
+2c598189b2d3a34cf779d2e7c6381177c5a147c1;Afonso Bessa;2026-10-16;created OrderLine class
+c89d9a5ab30d86ceff97c73fd6dce152fa0acf13;Afonso Bessa;2026-10-16;created Order class
+57717f15a436b2c538cdd36c243344863c0be30e;Santiago Ferreira;2026-10-16;Few bug fixes that appeared in USEI01(#36)
+95db73539e3d2a23f2797e449f38b3fba70a258a;Santiago2806Ferreira;2026-10-16;Further improvements to the CSV import functions (#36)
+4b97836e77788f93bc96d23e9693f81807f79c3c;GoncaloRodriguesISEP;2026-10-16;added robot class
+3d84508249ec1b391af5da44b4253cb7f3252618;Ruben Lopes;2026-10-15;Updated PendingOrdersUI to Support Customer and Deadline Filters (#52)
+08caa9e2e7dafc16d2d5aafded234174bf445bfe;Ruben Lopes;2026-10-15;Updated TransactionsController to Filter Orders by Customer and Deadline (#52)
+c6ad729be9807545954aebdbf77b8a04600befc8;Santiago Ferreira;2026-10-15;Merge remote-tracking branch 'origin/main'
+ec6bc3bbaf415aade58ac09168b0508184f37975;Santiago Ferreira;2026-10-15;Addition of TransactionParser and further implementation for USEI01 (#36)
+4026042091cc5a42ad8a54fe621496970eb7b30c;Ruben Lopes;2026-10-15;TransactionsController Updated to Sort Pending Orders by Deadline (#51)
+2099ff1494339391399f84c128de2b852d5c03d3;Santiago2806Ferreira;2026-10-15;Update to Domain Model puml and svg files (#19)
+c1e5f0e9e4d2fbdc9ec11b24466150b10bb9baaf;Afonso Bessa;2026-10-15;started progress towards developing the order splitting algorithm #56
+453bc3392e54366d9ebd96dc1601fe9f3efe3fa6;Afonso Bessa;2026-10-15;small change to how USEI05 operates #55
+7e9d925bec3e2e480ddec29f1e2bb56ee5d6afef;Afonso Bessa;2026-10-14;added JSON imports to the back office skeleton app #28
+cb456704169f1201462043e1d5017842073af1ca;Ruben Lopes;2026-10-14;Updated UI to display pending transactions list (#51)
+7b073332e13ffeefd2cdba5c47a8d82b07b0ca2e;Ruben Lopes;2026-10-14;Added TransactionsController with method to list all pending transactions (#51)
+57ad88e8e6b59cd952d34347b702d53cc3700df6;Ruben Lopes;2026-10-14;Added TransactionsDAO with getAll method (#51)
+1bc735efe20c1493a1fcca3c09a2934202c25ca2;Ruben Lopes;2026-10-14;Added Transaction Entity (#51)
+b50b39cac702deb251dc6bc98549f8af2897100c;Santiago2806Ferreira;2026-10-14;Update to ULSP03's UI class (#21)
+bc4e1c26f7f8c4083a07f9432d47d543a1f9ae39;Santiago2806Ferreira;2026-10-14;Further implementation for the CSV/text file import (#36)
+0f2e682369a7f9a743777c7d6d07e16249bee5a2;Ruben Lopes;2026-10-13;Created the initial version of PendingOrdersUI
+c362814c5451b58a65a33cefb98d3730936d816f;1241882;2026-10-13;Improvement  documentation of USEI02 (#46)
+7bb5479cf044d94cea8b8127d9befe723d028858;Santiago Ferreira;2026-10-13;Refactoring classes into SharedLibrary and further implementation for USEI01 (#36)
+8d5359af9e9031fbbda29c4ecadcb6afc1bb230b;GoncaloRodriguesISEP;2026-10-13;added Us Non-Functional Requirements, dependencies,input/output, edge cases and  DoD to USLP06 readme (#54)
+f635894e1ed2594f11200d8a894049c410f5ed09;Santiago2806Ferreira;2026-10-13;Merge remote-tracking branch 'origin/main'
+680b9a3701ca632d84732f9f31917ea45de94bef;Santiago2806Ferreira;2026-10-13;Update to base DAO interface
+ae7f94450e009b30933d86b10025d81b090dfc81;Afonso Bessa;2026-10-13;started work on back-office app skeleton #25 & #29
+17f2c71b021ce3c94f726707bdf4cee3fa8700dd;Santiago2806Ferreira;2026-10-13;Addition of the DAO package as well as the Base DAO to be used
+d81a33b8f05cb80ae745e9f77d57a2525ef73807;Afonso Bessa;2026-10-13;Merge remote-tracking branch 'origin/main'
+dd487b5009da4107d3b36e1019ce343c3bd58bb3;GoncaloRodriguesISEP;2026-10-13;added Us Description, specifications and acceptance criteria to USLP06 readme (#54)
+ce7217a7e05450dc6a64d9ecad3a8975d9cc1c15;Afonso Bessa;2026-10-13;updates to USEI05 Documentation #55 added Sub-Order to domain Model
+919bea36e07c6afd187c89435b54d02aa2aab80a;Afonso Bessa;2026-10-13;updates to USLP05 Documentation #39
+6a7432eb3b5b23d5432497c43fd8b12f3711f013;Santiago Ferreira;2026-10-12;Further development of Import Controller and UI classes (#36)
+3486a6c0b83399392e46476f1d0a025a6eb3421d;1241882;2026-10-12;Improvement to USLP04 documentation (#48)
+023cfa4b0c7cbd96753b6e49fe6bc8fff04ee7f7;Santiago Ferreira;2026-10-12;Beginning of the implementation for CSV import support (#36)
+cf53413b9d95f2c63e4a328556b7eb76f56181ef;Ruben Lopes;2026-10-09;Sequence Diagram of USEI03 Updated for PlantUML and removed the file of StarUML (#38)
+170a31f59ca8cae418f323457997e08e907d7ca0;Ruben Lopes;2026-10-09;ER Diagram file added and its respective image (#40)
+54ede141d018a0303575bbb1f83c83b4f826996d;Ruben Lopes;2026-10-09;Added the script file of the DB for Oracle (#40)
+96d215313b140a98030910492cfadcc25f9a5e5a;1241882;2026-10-09;fix format configuration of documentation of USEI02 #46
+02b932e13208bc885b88b2d7fa3b07cc4c99cded;1241882;2026-10-09;add documentation of USEI02 #46
+4ac8f53172d218b547ad6524dd90e37ec8d282be;GoncaloRodriguesISEP;2026-10-09;Merge remote-tracking branch 'origin/main'
+2347ee4a7d562c0f7871da1be0456d889b9edf3d;GoncaloRodriguesISEP;2026-10-09;added Edge Cases and Definition of Done to USEI04 readme (#41)
+4ce1164623b6c241f1bc673da19f0607e92f7a8d;GoncaloRodriguesISEP;2026-10-09;added Input & Output Data to USEI04 readme (#41)
+0fbd7508af4ed4e7830f54919778134a9be1c587;GoncaloRodriguesISEP;2026-10-09;Merge remote-tracking branch 'origin/main'
+c060fc17bba8a9a03e682cc88e1e15ef82131abc;GoncaloRodriguesISEP;2026-10-09;added acceptance criteria and dependicies (#41)
+a95e354944e86e7d26398a82c815127cc56d149e;Santiago2806Ferreira;2026-10-09;Addition of the main and UI classes for the ShoppingApp skeleton (#21)
+48deac4fea0d5c32982d31873d548c382e89e2e4;Santiago2806Ferreira;2026-10-09;Addition of USLP03 sd.svg file (#34)
+655e1adb4276eadde580ed920edda535ce56441a;GoncaloRodriguesISEP;2026-10-09;added US description to USEI04 (#41)
+8cbe100c22df05a9e75514aa1d021bdf4917fec9;GoncaloRodriguesISEP;2026-10-09;created doc folder for USEI04 (#41)
+1ad6b921881f575da94a733305a40cf349999bae;Santiago2806Ferreira;2026-10-09;Update to the glossary, addition of terms used in the Domain Model (#20)
+9b0f7623d86a4cdc75df52a6b01b575dd79b0a69;Santiago Ferreira;2026-10-09;Addition of USLP03 Sequence Diagram (#34)
+8c8dc4b77f593afac955a9f3974a16c12f5a69d4;Ruben Lopes;2026-10-08;Documentation added for USBD05 (#44)
+db7d402e68e16ff115ec346b3025af9b596eb1d0;Ruben Lopes;2026-10-08;Documentation added for USBD04 (#45)
+418139c957d68da69e63ecc4820813c82dd47767;1241882;2026-10-08;Update the readme.md of USLP04
+02a46985dcc3f5fe144150623a4b0dac1bd2b9c8;Santiago Ferreira;2026-10-08;Finishing up USLP03 documentation (#34)
+356db73c27bce2c15896b967e9c2641f99f5f621;Santiago2806Ferreira;2026-10-07;Update to the documentation of USLP03 (#34)
+910f3d828a4664d546bf2c20f17900a7993fc750;Santiago2806Ferreira;2026-10-07;Update to the work distribution per team Member
+6a5b2747b0943467235e5ceddb74650c19cf90bb;Afonso Bessa;2026-10-07;Merge remote-tracking branch 'origin/main'
+9559aece2ba80265a7044d12de17b84d5866e085;Afonso Bessa;2026-10-07;Customer Specifications & Clarifications - US LP05 & EI05
+5f5fe80fee3b3d0d39f99517101fb346daf7ab4e;Santiago Ferreira;2026-10-07;Updates to USEI01 documentation and to its Sequence Diagram
+d150a0e9fe2f07cded559aac1c91b93f039da53d;Santiago2806Ferreira;2026-10-06;Addition of USEI01 Sequence diagram draft
+55abfa961e41965393c3f1467fa178ea8ed5e97a;Afonso Bessa;2026-10-06;USLP05 and USEI05 sequence diagram draft
+1a3117d6169c1f49d12eefe8b0dc7ff905381136;Ruben Lopes;2026-10-05;Added Sequence Diagram of the USEI03 and its respective file
+f065ca2f6c247e2b0640867f1c5e0ceaf643034f;Afonso Bessa;2026-10-05;Merge remote-tracking branch 'origin/main'
+fed58c465fb214eedebb21cffad38c55002f08f9;Afonso Bessa;2026-10-05;USEI05 Documentation
+ac9e12d1fa4fb0378ac4c609a3bc3b13f56978d2;Santiago Ferreira;2026-10-05;Beginning of the Domain Model
+02c6dca0651c5a1e2fefdb63c7933f6bd665671a;Afonso Bessa;2026-10-04;USLP05 Documentation
+f55375006d74c9be028c7ff05cd3222479cd6d1d;Santiago2806Ferreira;2026-10-03;Quick update to USEI03 documentation
+c42c7441882e2e8308d35764a41e54abbae84a1c;Santiago2806Ferreira;2026-10-03;First edition of the Project glossary
+923eb3d567a36ecd82ba75181d9e1e785e0ae1f5;Ruben Lopes;2026-10-02;Documentation added for USEI01
+acfaf39712ee2e84c7ae8a92a8f0e5efe2280d38;Santiago2806Ferreira;2026-10-02;Merge remote-tracking branch 'origin/main'
+8e5073f6c39df14dd92d97e29cc51c59b329ff13;Santiago2806Ferreira;2026-10-02;Update to USEI01 documentation and addition of sd.puml file for the respective US
+79ac414b65edccae382a34614a051e1b738dd1b6;Afonso Bessa;2026-10-02;Merge remote-tracking branch 'origin/main'
+0966aad0c22c77f7fee34ad97aa02c486d4ea52f;Afonso Bessa;2026-10-02;added ParkingStation class, RobotStatus enum, and improved on the relationships involving those classes
+0a2a4310810d18aefd2d8251df07af3b9e955d9d;Santiago2806Ferreira;2026-10-02;Update to USEI01
+e12094e760d2b193f0ece45581e6dab78b861380;Afonso Bessa;2026-10-02;added Robot class, corrected interactiong between Store and Shopping
+09b09a309a31cec6be9cab54ad4dcfc751b9f0dd;Santiago2806Ferreira;2026-10-02;Project readme updated
+6e9ddbd3e820e5f4f72c2fb1a66a5fd159faf52a;Santiago2806Ferreira;2026-10-02;Further development of the Documentation for USEI01 and USLP03
+97bfc2262680688d17164b8c82132b63054a4459;Afonso Bessa;2026-10-02;Merge remote-tracking branch 'origin/main'
+b1e2d8bb42ac4482a1f1606e26c40742227f2af9;Afonso Bessa;2026-10-02;Added Store and Shopping class to domain model
+8ef2ce4910f764f22a2bbc3a661297da81c0a9cb;Santiago Ferreira;2026-10-01;Update to USEI01 documentation
+cf7132c4c5407399fd3f1f5878c987d255e4cee8;Santiago Ferreira;2026-10-01;Addition of USLP03 and USEI01 documentation folders
+d7758c2628f80f8888555dd1b8e34385a8b6f4dd;Afonso Bessa;2026-09-29;Updated Team Members Documentation
+3df7a10ee1c3c8e06451fae8e1ebd135766ab6a9;1241882;2026-09-29;add USLP04 draft
+03f7bd1150df74cc669045fbde71e3a4a8a404b8;Santiago Ferreira;2026-09-29;First commit: Initial addition of directory for USLP02 using the given readme placeholder

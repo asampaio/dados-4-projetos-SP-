@@ -1,0 +1,64 @@
+# 📖 Project Glossary
+
+Quick reference guide for domain-specific concepts used across the project.
+
+## 💼 Domain & Business Terms
+
+| **_TEA_** (EN)               | **_TEA_** (PT)                    | **_Description_** (EN)                                                                                                                                                       |                                       
+|:-----------------------------|:----------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Autonomously                 | Autonomamente                     | To act or operate independently, in a selfgoverning manner, or without direct human or external control.                                                                     |
+| Customer                     | Cliente                           | Person who buys products through the app.                                                                                                                                    |
+| Delivery                     | Entrega                           | The act of bringing purchases through the ShopRobot.                                                                                                                         |
+| Delivery Spot                | Local de Entrega                  | The place choosen by the customer tho recive the purchase items, brought by the ShopRobot.                                                                                   |
+| Elevators                    | Elevador                          | Small room or platform that travels vertically in a shaft to carry passengers or the ShopRobot.                                                                              |
+| Feasibility Check            | Análise de Viabilidade            | Earlystage assessment that determines if  a single purchase order can be fulfilled by an available ShopRobot.                                                                |
+| Human intervention           | Intervenção Humana                | Intentional action or involvement of a person in the process of acquiring the the purchases.                                                                                 |
+| Hypermarket                  | Hipermercado                      | Very large retail store that combines a supermarket and a department store under one roof to offer a complete onestop shopping experience.                                   |
+| Incompatible purchase orders | Pedidos de compras incompatíveis  | Diferent products that should be separeted into sub-orders due to their physical characteristics (Example: Mixing frozen food with a hot beverage).                          |
+| Logistics operator           | Operador logístico                | Company specialised in managing one or more stages of the supply chain for other businesses.                                                                                 |
+| Maintenance operator         | Operador da manutenção            | Person who mantains the ShopRobots and their stations functional.                                                                                                            |
+| Merchant                     | Comerciante                       | Person that defines the products available to buy using the ShopRobot application.                                                                                           |
+| Operational status           | Situação operacional              | Status that determines if the ShopRobot is ready to be deploid for gathering products. These are READY, CHARGING, MAINTENANCE.                                               |
+| Outlets                      | Pontos de venda                   | Place from which goods are sold or distributed.                                                                                                                              |
+| Parking level                | Andar do estacionamento           | Area of ground where you can leave a car for a period of time. Unavailable for the ShopRobot                                                                                 |
+| Product Owner                | Proprietário do produto           | Member of a team who focuses on maximizing the value of the product being built. They’re the bridge between stakeholders and the development team doing the actual building. |
+| Product                      | Produto                           | Something that is made to be sold. These may be specific to the app's selling channel and different from the ones that are possible to buy directly at the stores.           |
+| Public                       | Público                           | The general body of people in a community, state, or nation that can benefit from the ShopRobot.                                                                             |
+| Retailer Administrator       | Administrador de Loja             | Person who defines the stores available in the system.                                                                                                                       |
+| Robot Properties             | Propriedades do Robô              | Its operational status, max volume, max weight, and minimum required battery                                                                                                 |
+| Robot Station                | Estação do Robô                   | Location where ShopRobots go to recharge their batteries.                                                                                                                    |
+| Route                        | Rota                              | Path, calculated by the ShopRobots, to gather the products purchased and deliver them in a choosen place.                                                                    |
+| Shopper                      | Comprador                         | Person who visits stores, browses online, or looks for things to buy.                                                                                                        |
+| Shopping location            | Localização do centro comercial   | Geographic or broader descriptive term meaning any location or address where you shop.                                                                                       |
+| Shopping mall/center         | Centro comercial                  | Large, indoor or covered building, or a group of buildings, that houses many different stores, restaurants, and entertainment spaces with parking outside.                   |
+| ShopRobot                    | Robô de compras                   | Machine that autonomously collect purchases from the mall's stores.                                                                                                          |
+| Stakeholder                  | Parte interessada / Interveniente | Person or group of people who own a share in a business.                                                                                                                     |
+| Sub-order                    | Sub-pedido                        | Fragment of the original order created to seperate products from eachother, due to the ShopRobots capacity or the products characteristics.                                  |
+| System Planner               | Planeador do sistema              | Person that designs, coordinates, and maps out how technical, business, or operational systems will work to meet future goals.                                               |
+| System Operator              | Operador do sistema               | Person or organization responsible for monitoring, maintaining, and controlling the reliable operation of a complex system.                                                  |
+| Virtual shopping bag         | Saco de compras virtual           | Digital feature on an e-commerce website or app that temporarily holds the items a customer intends to buy before they proceed to checkout.                                  |
+
+## 🔧 Technical Terms
+
+| **_TEA_** (EN)               | **_TEA_** (PT)                       | **_Description_** (EN)                                                                                                                          |
+|:-----------------------------|:-------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------|
+| Artificial inteligence (AI)  | Inteligência artificial              | Branch of computer science that builds software and systems capable of performing tasks that normally require human intelligence.               |
+| Assembly / C                 | Assembly / C                         | Programming language used to implement the platform source code.                                                                                |
+| CamelCase                    | CamelCase                            | Writing style for phrases or compound words without spaces, where each internal word starts with a capital letter, simulating camel "humps".    |
+| Domain Model                 | Modelo de domínio                    | “Dynamic” document, which should continuously reflect the stakeholders’ shared understanding of the domain.                                     |
+| GeoJSON                      | GeoJSON                              | Format for encoding a variety of geographic data structures.                                                                                    |
+| Git                          | Git                                  | Version control system used to track changes in the project files and support collaboration between developers.                                 |
+| GitHub                       | GitHub                               | Cloud-based platform where developers store, share, and work together on software code.                                                         |
+| IntelliJ IDEA                | IntelliJ IDEA                        | Integrated development environment used to edit, run, and manage the Java project.                                                              |
+| Java                         | Java                                 | Programming language used to implement the platform source code.                                                                                |
+| JUnit                        | JUnit                                | Testing framework used to define and run automated unit tests for Java code.                                                                    |
+| Markdown                     | Markdown                             | Lightweight markup language used to write project documentation files, usually with the `.md` extension.                                        |
+| Maven                        | Maven                                | Build automation and dependency management tool used to compile the project, run tests, package the application, and manage external libraries. |
+| Oracle FreeSQL               | Oracle FreeSQL                       | Browser-based platform for learning and practicing Oracle SQL on a real Oracle Database.                                                        |
+| Scrum                        | Scrum                                | Agile project management framework that helps teams build complex products through short, repeated cycles called sprints.                       |
+| Sprint                       | Sprint                               | Short work periods that last between one and four weeks. The team finishes a usable piece of the product during each sprint.                    |
+| PlantUML                     | PlantUML                             | Text-based diagramming tool used to describe diagrams in `.puml` files and render them into visual formats.                                     |
+| TestDriven Development (TCT) | Desenvolvimento Orientado por Testes | Software development approach where you write automated tests before writing the actual functional code.                                        |
+| User Interface (UI)          | Interface do utilizador              | Visual and interactive space where a person connects with a digital device, website, or application.                                            |
+| User story                   | História do utilizador               | Short, simple description of a software feature or requirement told from the perspective of the end user.                                       |
+

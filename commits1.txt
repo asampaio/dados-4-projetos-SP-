@@ -1,0 +1,163 @@
+a2f9a75422066865318584b9c990544b5954102c;Maria Luiza Jobim Wanick;2026-10-21;ESINF: Main and MainTest updated
+0830eeb46f57c2ed499696697a60ecc034f73a6f;Maria Luiza Jobim Wanick;2026-10-21;ESINF: PendingOrdersUI
+f154c4a5554693de6b64cc514b77111770d3790c;Maria Luiza Jobim Wanick;2026-10-21;ESINF: PendingOrdersController + tests
+1d30324b62e0ffdcb5581eaaeac42afda6abc55d;Maria Luiza Jobim Wanick;2026-10-21;ESINF: ImportDataUI added
+fd2bb319e557f204a76a2a0f55a8a1e60b1e50ab;Maria Luiza Jobim Wanick;2026-10-21;ESINF: ImportDataController and test
+cdbfa18e5709b343bd87388442cfcb68f3c91798;Maria Luiza Jobim Wanick;2026-10-21;ESINF: add shared console IO and generic menu
+bcc4789125c20a53b2be903153a79ab5ef169097;Maria Luiza Jobim Wanick;2026-10-21;ESINF: add DtoMapper for Order to OrderDTO conversion
+90fc38f2b7aa60a95539886bfc4ac30d863effee;Maria Luiza Jobim Wanick;2026-10-21;ESINF: add PlanningContext and DTOs for planning app
+18e26e20d4c37a08b5a4b7f1b36f73ee696ca476;Matilde-Moreira;2026-10-21;USEI04: New Unitary Tests added to both RobotTest and RobotAssignmentServiceTest classes
+5c953bfac640ba1f12ec6b56a9e8870afd3330ba;Matilde-Moreira;2026-10-21;USEI04: Updates on Robot and RobotAssignmentService classes. Small fixes on RobotAssignmentServiceTest due to the classes update
+594403569a7c1d3b6b02602111b3bebbd8d13382;Pedro Nunes;2026-10-21;Documentation: domain model svg updated.
+27b55bdfb892022eeb3e9a2db6fee26fb0f5d5ad;Pedro Nunes;2026-10-21;Documentation: domain model updated. Address removed, DeliveryTimeWindow refactored to deadline. Refinement of the CartItem object
+422e22e863fb2898f1687181197da03e4476ea05;Matilde-Moreira;2026-10-21;USPL06: Unitary Tests for GeoJsonImportService class and ImportResultDTOTest class.
+0fb181f1b2ac2032d5160c1a1fbb0e4598028567;Matilde-Moreira;2026-10-21;USPL06: Unitary tests for GeoJsonImportDao class, JdbcAreaDao class, JdcbLevelDao class, JdbcShoppingLocationDao class and JdbcStoreDao class. DaoTestDatabase created.
+a5743f28085fd41eb8e4365becb8fbb35878f588;Liz Pereira;2026-10-21;Merge remote-tracking branch 'origin/main'
+66a050dbac5daa7f695388049d8d1482975d038a;Liz Pereira;2026-10-21;Updated - Used Utils instead of scanner in OrderPartitioningUI; refracted method assignedGroup in OrderPartitionService
+60e6439be2f0292cf83f74b884074218fa2bf2f9;Maria Luiza Jobim Wanick;2026-10-21;Merge remote-tracking branch 'origin/main'
+c151411b6d680b913570fae3f32d746169d4e9b3;Maria Luiza Jobim Wanick;2026-10-21;ESINF: Customer atribute change + added new constructor
+92c21d361ece3b5637252f43c2bba87f979d2aa1;Liz Pereira;2026-10-21;Updated - Added UI elements for USEI05
+d34b585c4e942cac1eb36e66c7bb1c5c09b29a25;Liz Pereira;2026-10-21;Merge remote-tracking branch 'origin/main'
+172f17b2e84a298bf84362f26330b86d5ffb6668;Liz Pereira;2026-10-21;Updated - Added UI elements for USEI05
+9e121032ce8e419ba1ff45fd84ca518e65906ff1;Pedro Nunes;2026-10-21;Documentation: changed email to simple attribute, removed MovementDirection.
+a99cae97021ea2a8103c8f06f2d421ebf04902ed;Maria Luiza Jobim Wanick;2026-10-21;Merge remote-tracking branch 'origin/main'
+9879b7d2add00317d90af01f9ba70cbb03b1849a;Liz Pereira;2026-10-21;Updated - Moved all classes in USEI04 to new directories.
+ab1c8ecae5af3b4a58c414b583342f18fbf3367c;Liz Pereira;2026-10-21;Updated - prepared qa-readme.md of USEI05 to be filled
+c8393482e1556d636273f2f8065c14fb2e2a08b5;Liz Pereira;2026-10-21;Updated - prepared qa-readme.md of USLP03 to be filled
+ee508275f7ca9c889c91082b14dc2433743e2cd8;Matilde-Moreira;2026-10-20;USPL06: fixed GeoJsonMapperTest, all tests up to date are running
+a70e0d8d98e0b1a631a5d6879c7829e324b21e3e;Matilde-Moreira;2026-10-20;USPL06: Unity tests for BackOfficeSchema class
+5d7a5b546e07f1268da77351e905c1861db89701;Matilde-Moreira;2026-10-20;USPL06: Unity tests for GeoJsonMapper and GeoJsonMappingResult classes
+728d47ca22fee2502715afb099ae89a50632d7cb;Matilde-Moreira;2026-10-20;Merge remote-tracking branch 'origin/main'
+e80e1e88fe9a96de5ba663c3a1cf818f96629a26;Matilde-Moreira;2026-10-20;USPL06: Unity tests for Area, AreaType, Coordinate, Level, ShoppingLocation and Store classes
+8d1417a67b5cae20d9e11f6a3dd9202c93654bef;Maria Luiza Jobim Wanick;2026-10-20;ESINF: Main Test app three changes
+4d1ed674d17eb9c1414469d46e845e6add846aba;Maria Luiza Jobim Wanick;2026-10-20;Merge remote-tracking branch 'origin/main'
+264a939785029e2920be443cdc18775462262741;Liz Pereira;2026-10-20;Updated - (app one) Moved code from MainAppUI.java to Main.java. Deleted MainAppUI.java.
+124f563357138e3007719b37e9244eccad67c1ed;Liz Pereira;2026-10-20;Updated - Added Utils class in shared-library. Refracted input requesting lines to use Utils.
+c6b593416e110b7764460d7c99a5f1df8cbbc6ee;Pedro Nunes;2026-10-19;USLP05: Documentation#18
+17b7cef3fd896c35f832f48193b59b96035a8dc3;Maria Luiza Jobim Wanick;2026-10-19;ESINF: Main and Main Test app three
+51e76e414db5ca46bdad74b579bf9a19c84cbbba;Maria Luiza Jobim Wanick;2026-10-19;ESINF: Pending Order Queue Test
+864b23fbadea6d132678669d9481790240f14358;Maria Luiza Jobim Wanick;2026-10-19;ESINF: Pending Order Queue for US03
+be6c379997583e06b295de1e0510c4e0208329a6;Maria Luiza Jobim Wanick;2026-10-19;Main appthree implementation
+026949a93b0fea54ccce12be5159e13f0adb5682;Liz Pereira;2026-10-18;Updated - Corrected grammar in USLP03 readme.md; Started USEI05 readme.md
+74aff4858102d553625addcd8ed4e6a1f92ede29;Liz Pereira;2026-10-18;Updated - updated OrderPartitionServiceTest
+5aaf2a9c117a800c30ebb3f288cc4412379fbd31;Liz Pereira;2026-10-18;Updated - made tests for OrderPartitionService and SubOrderAssignment (USEI05)
+54dc7ff498913ed3b47c368d0ce7eeaa519fd7dc;Liz Pereira;2026-10-18;Updated - made tests for OrderPartitionService and SubOrderAssignment (USEI05)
+6ca19a7d4d1a5bc250c7ee0f6aec5aa917e4cb60;Liz Pereira;2026-10-18;Updated - made tests for OrderPartitionService and SubOrderAssignment (USEI05)
+fc3f5c1d3ef49edb5eb990ebdd61acb3ae7a7d6c;Matilde-Moreira;2026-10-17;Merge remote-tracking branch 'origin/main'
+55ccbc72d45773657870e6efe3851f0997305a24;Matilde-Moreira;2026-10-17;USPL06: minor adjustments and readme.md deletion (documentation will be a separate issue to work on)
+ee93025f4a3d498965ca64ea2b720a9c21a2a0b7;Matilde-Moreira;2026-10-17;USLP06: distinguish excluded features from import errors
+32a18ae8484b0531b61ef4b23c377d892b7e3ff7;Matilde-Moreira;2026-10-17;USLP06: report only relevant feature mapping errors
+5db34dd1626c807b4aa026dc735544371f5d68b2;Liz Pereira;2026-10-17;Updated relational-model.svg
+11e58b16777c38b085c5af13e9d9a9b42791be98;Matilde-Moreira;2026-10-17;USLP06: label imported records in console summary
+a8cb51cf2bdc23c7661ba89f87deae6b43dc2001;Matilde-Moreira;2026-10-17;USLP06: document GeoJSON import mapping and persistence
+1c83e3ceaad63960b6cec5bd4a20e963883acf00;Matilde-Moreira;2026-10-17;USLP06: align polygon mapping with GeoJSON library API
+ef6d03a8513c5a3035a4864e47684b3207314253;Matilde-Moreira;2026-10-17;USLP06: constrain and order stored polygon coordinates
+5c054f2a44d1e80f90ab77bbcc8c52a7506dcfc3;Matilde-Moreira;2026-10-17;USLP06: display imported levels stores and issues
+f7ff2947fd8f407a63f88b125a3dc845752d45ac;Matilde-Moreira;2026-10-17;USLP06: wire controller to transactional import service
+94b72e9bc650cb4e4f73a7f55b296f3661dcd2d6;Matilde-Moreira;2026-10-17;USLP06: return persisted levels and stores from import service
+5f7f8c4f18a696549271ccd6b1aadd82d4354210;Matilde-Moreira;2026-10-17;USLP06: map GeoJSON levels areas and stores
+a1dce5ce98eae0bdc4d7ca3d31b2cf122c14dfa5;Matilde-Moreira;2026-10-17;USLP06: persist each import in one transaction
+5e35506e9113515fd46323a26b914f418aa6af4d;Matilde-Moreira;2026-10-17;USLP06: add JDBC persistence for imported entities
+7818e5a15ce456beab5ff2ade0489ede8c693087;Matilde-Moreira;2026-10-17;USLP06: prepare back-office database schema
+bc0be67b804d1fa8879f104dd43d17fb2aa8b32f;Matilde-Moreira;2026-10-17;USLP06: add imported area and store domain types
+a13cafbe1707dd67abaf64d7b1b35d4ffda97608;Matilde-Moreira;2026-10-17;USLP06: add location level and coordinate domain types
+fe8cdd84ceb1908ed6503695117346c33ae6a5ab;Liz Pereira;2026-10-17;Develop - Created OrderPartitionService for USEI05
+ebc8c800aef6e2e1b1a104116ff34f528053d102;Liz Pereira;2026-10-17;Update - Moved SubOrderAssignment to a new folder.
+6cc3ae7d7e00c9bc0ac9502a9a72fdbfb83577b5;Liz Pereira;2026-10-17;Develop - Created SubOrderAssignment for USEI05.
+c4bdad6f718f6f07e3ba33024f82bab8cb9e458d;Pedro Nunes;2026-10-17;USLP05: add app-two main
+adac12b9953d07675ce3ee75f6f2d02441979a37;Pedro Nunes;2026-10-17;USLP05: add MenuUI and ImportGeoJsonUI
+2fdff36453715d25e10cf50b829ae1632a1b4314;Pedro Nunes;2026-10-16;USLP05: add geojson and properties file to test folder
+8619eecdca14da91a64a9272a228569a54f35a7d;Pedro Nunes;2026-10-16;USLP05: add ImportGeoJsonController and ImportResultDTO
+3f61923219955cacecec13150951d3079daa6776;Pedro Nunes;2026-10-16;USLP05: add GeoJsonReader
+8dbe62ce09879997aa533f745c4d53d76e20ad27;Pedro Nunes;2026-10-16; USLP05: move GeoJSON into resources
+4693c758585dd38c3c3d8dc8c64887c3c96d4e87;Pedro Nunes;2026-10-16; USLP05: add PropertiesReader for backoffice.properties
+ff3a0dd9e415097e3f099548483f2530f4e8a1bd;Pedro Nunes;2026-10-16;USLP05: add ImportException
+de25da2833757246de5e2cf9b43c9180315733ac;Pedro Nunes;2026-10-16;Update domain-model.puml after client clarifications. Value object Polygon, cartItem removed and DeliverySpot changed to DeliveryArea
+1deda6bd9a5022ebb3d01ab936fb26edcae0a899;Matilde Moura;2026-10-16;USBD04: refine model evolution documentation with TP03 development cycle and Git evidence
+efb2797bf3443a395a1efa4ae724e326b76ae0b7;Matilde Moura;2026-10-16;USBD04: simplify data dictionary and remove redundant information
+21f119523e95b30a54bdbda6a6c154886c5591c6;Matilde Moura;2026-10-16;USBD04: changes in relationam model markdown according to the changes made in the puml
+eed8dac065020c98f6e31e67e6e8124c0e427cca;Matilde Moura;2026-10-16;USBD04: document iterative relational model evolution
+dc5afb5853419294a0f3a83538023d071e679da8;Matilde Moura;2026-10-16;USBD04: document data dictionary and integrity constraints
+8eb947c97049af6768ebdbca14e15e55b2357589;Matilde Moura;2026-10-16;USBD05: implement and validate database schema, price history and price change procedure
+8619af7975352dba935d35cddeb10a6c0b59fa16;Matilde Moura;2026-10-16;USBD04: preserve transaction prices and introduce product price history
+8e9dd83fcda32c1fdbbded261fb60ff60e598b2c;Liz Pereira;2026-10-16;Update - Fixed RobotBatteryComparatorTest tests.
+84d184015a8a0e19bc1dac7af17d70759dfacab0;Liz Pereira;2026-10-16;Merge remote-tracking branch 'origin/main'
+d87b063602087a23c3b9ad544a2f72e578673e15;Liz Pereira;2026-10-16;Update - USLP03 refine catch exception; Added relational-model.svg
+7d4d503fd2c95ff9a1d5e09d18a8f7e7cb7501bc;Pedro Nunes;2026-10-15;Merge remote-tracking branch 'origin/main'
+a42dac7081b72b1e979f469df8880e217985054d;Pedro Nunes;2026-10-15;Update - USLP05 added ENUM UserRole to Shared-Library
+25692ac576bfca45175f29a442298f551e69a677;Matilde Moreira;2026-10-15;Merge pull request #21 from Departamento-de-Engenharia-Informatica/develop-uspl03
+a7d4599acaef91c0ef733999282d978113696c1d;Maria Luiza Jobim Wanick;2026-10-15;Merge pull request #20 from Departamento-de-Engenharia-Informatica/7-base-entities
+c2d6c45ac514f58b604c33983725e30d42d256f3;Liz Pereira;2026-10-15;Update - USLP03 added Definition of Ready. Moved menu item to shared library
+0bec7ec67bf33d5169f42792edf2b0f445217789;Matilde-Moreira;2026-10-15;USEI04: Tests + beginning of the documentation
+2513d71e0e7c1b55ed492fab07b14c7e35c5afff;Matilde-Moreira;2026-10-15;Merge branch 'main' into 7-base-entities
+2f7eb3c67f7a8da866affba4c433b6512e801919;Liz Pereira;2026-10-15;Update - USLP03 added exception treatment in UserRegistrationController, saveUser.
+0c923715718204da201afb356e8d7170460f6726;Pedro Nunes;2026-10-15;Update - USLP05 added Jackson/GeoJSON dependencies and backoffice.properties
+b142725d7a180567fac62e2f812d9a24b61d997c;Pedro Nunes;2026-10-14;Add 5-minute timeout to nightly build
+19cad36aa77dc21bec12b60695bdce2683137372;Maria Luiza Jobim Wanick;2026-10-14;Merge pull request #15 from Departamento-de-Engenharia-Informatica/develop-uspl03
+c08a8e3a0375eb0ad5d81e0edfafe6baa019ed50;Liz Pereira;2026-10-14;Merge pull request #14 from Departamento-de-Engenharia-Informatica/USEI01
+d1e39e2d6a21bc3c161a067f42605931c52346c3;Liz Pereira;2026-10-14;Update - USLP03 added client clarification to the documentation document.
+bec692f411421164dde8aea5f0f157ac8659c81f;Liz Pereira;2026-10-13;Update - USLP03 added message after registration request.
+b7956f4f7c4e4ca2ae487d8f195ed46f7b31390d;Maria Luiza Jobim Wanick;2026-10-13;ESINF: Data CSV reading implementation
+39493685b0a11383aab845387cdcddd638b294fc;Maria Luiza Jobim Wanick;2026-10-13;ESINF: Added data to git
+e393a05ce18d9986a700c4871f311963483f4074;Liz Pereira;2026-10-13;Merge branch 'main' into develop-uspl03
+7d18cdf47dadac7abc675946977d114d37f102bc;Maria Luiza Jobim Wanick;2026-10-09;ESINF: CustomerRepository and CustomerRepositoryTest
+2af75ac08bc34afcab1a06e98ad0dd1511954a11;Maria Luiza Jobim Wanick;2026-10-09;ESINF: StationRepository and StationRepositoryTest
+dd4509dfc70a2dc7ea6f34f2bb8094fccd877980;Maria Luiza Jobim Wanick;2026-10-09;ESINF: RobotRepository and RobotRepositoryTest
+2ed07b6e346cb28aa81ee40d821c57eebf9862ea;Maria Luiza Jobim Wanick;2026-10-09;ESINF: OrderRepository and OrderRepositoryTest
+5bb82426a12d79608c577a498928d0bdfe8c5902;Maria Luiza Jobim Wanick;2026-10-09;ESINF: RobotAssignmentService and RobotAssignmentServiceTest changes
+32e367e011440f142479bb2742b2f93d985e2c5c;Maria Luiza Jobim Wanick;2026-10-09;ESINF: Customer class implementation
+7a9bc641397a8745cf796288277ea294ebe7f23b;Maria Luiza Jobim Wanick;2026-10-09;ESINF: Customer class implementation
+595a9c1d3ae213c2a3a56a621b96856b79a0bc7a;Maria Luiza Jobim Wanick;2026-10-09;ESINF: Order and OrderTest changes
+f79211ea8c5b33f8373df937f396c95783dc07ac;Maria Luiza Jobim Wanick;2026-10-09;ESINF: OrderItem and OrderItemTest implementation
+f396548091554d25081c1013b790ac6594ab3c0d;Matilde-Moreira;2026-10-09;Merge branch 'main' into 7-base-entities
+5e10a80c5541b402dd696838c1bd916bc46f2f06;Matilde-Moreira;2026-10-09;USEI04: documentation
+a21fa9ed7a9578bd46dfdb4742c20e3b8ad566c8;Maria Luiza Jobim Wanick;2026-10-09;ESINF: Robot class update
+e2d70fa4aded6e11f5fba72852c409989bdf894a;Maria Luiza Jobim Wanick;2026-10-09;ESINF: RobotAssignmentService class update
+5b7166f154424c94ca0f03657b9f7f1132de22c2;Maria Luiza Jobim Wanick;2026-10-09;ESINF: RobotAssignmentServiceTest update
+6a6302dc49ad7c1d66f5c354181c37e556cdb74e;Maria Luiza Jobim Wanick;2026-10-09;ESINF: RobotTest update
+b4e5c2fc5e67718e270b0d0d0ea978897f66ab97;Matilde-Moreira;2026-10-09;USEI04: add unit tests for RobotBatteryComparator
+5b2313e5ac4f47fc665dcdcf5027911791f2b090;Maria Luiza Jobim Wanick;2026-10-09;ESINF: Station test implementation + Robot assignment service test update
+f670dbb047ee0219f2c0fa72e9c1a205318249ad;Maria Luiza Jobim Wanick;2026-10-09;ESINF: Station class change
+20d7dd584e4934d8e6c1b29b19894daa0dc4b074;Liz Pereira;2026-10-08;Update - USLP03 documentation/implementation/tests.
+c1bedad88374164d65bcf2c06d941e8b5e930f1d;Liz Pereira;2026-10-08;Update - USLP03 documentation/implementation/tests.
+180fda5d07754db929ea847642cfa040d89c3783;Matilde Moura;2026-10-08;USBD04: refine sub-order cardinalities and simplify constraint annotations
+59b0fc035e75c37431213e61e11097bf1335ae56;Matilde Moura;2026-10-08;USBD04: refine order and sub-order relationship cardinalities
+6862553505a54daa23668264cb84100d0d000438;Matilde Moura;2026-10-08;USBD04: extend product integrity constraints documentation
+0fb76d237c96f8199916c2af4aa93c1c147a9218;Matilde Moura;2026-10-08;USBD04: clarify order constraints and delivery time validation
+6e424a3f4a6e2a2dc3dab51488f27d784f401581;Matilde Moura;2026-10-08;USBD04: document robot integrity constraints in relational model
+9dab504681954606822a0cfede9f4ffe99789369;Liz Pereira;2026-10-08;Update - USLP03 documentation/implementation/tests.
+e2b02053dd983ea3ae9768e49537e9d2ccb2f456;Maria Luiza Jobim Wanick;2026-10-07;ESINF: Status light doc change
+b34fb022d5cde0b73515468a62dccd60557b76ae;Maria Luiza Jobim Wanick;2026-10-07;ESINF: station correction
+33ff223c5a9168db4b8e1f471fcbd33dd539c537;Maria Luiza Jobim Wanick;2026-10-07;ESINF: robot test
+0742fb3b87e4adc7c4a1e8dee077141c8b4614d9;Maria Luiza Jobim Wanick;2026-10-07;ESINF: Creation of status light enum and robot implementation
+ef6ff236dbd591c3830dde3592be278a40ca372c;Liz Pereira;2026-10-07;Update - USLP03 implementation/tests.
+2c65e2468cb8d5872a5500dc14441ba06ca1813b;Liz Pereira;2026-10-07;Update - USLP03 implementation.
+4d7ca4177b26f55bda3ea5f7985223e740f5998e;Liz Pereira;2026-10-07;Update - USLP03 implementation.
+f6437170b2702165d04c09817da7da169518fd0e;Liz Pereira;2026-10-07;Update - USLP03 implementation.
+b9422c6a9f00a8bf8a09c15775b819a3e4338f19;Maria Luiza Jobim Wanick;2026-10-07;Merge pull request #13 from Departamento-de-Engenharia-Informatica/7-base-entities
+de699a2129576f17195607925d42251d8ad72b4a;Matilde-Moreira;2026-10-07;USEI04: added unit tests
+541489b6a50730a9fc52dd01ecaf71aad8dbdae7;Maria Luiza Jobim Wanick;2026-10-07;Merge pull request #12 from Departamento-de-Engenharia-Informatica/sprint1-domain-model
+68b9453b2f753fbbca299405933ea1a2abffb21c;Pedro Nunes;2026-10-07;Merge pull request #4 from Departamento-de-Engenharia-Informatica/Glossary-developtment
+0876bd0e69e4d97446db742309a6dadfdf183e55;Pedro Nunes;2026-10-07;Update of the Global Artifact, domain-model.puml
+226cd57a58b60edb06e4de51e7c1ebe5bb9325fd;Pedro Nunes;2026-10-07;Update of the Global Artifact, domain-model.puml
+d4893c0fdd2c8603658bb5b5580da8de64810c39;Matilde-Moreira;2026-10-07;USEI04: added unit tests for robot assignment logic
+f3dec681b61d719df8b3799a68553891c77dfed6;Matilde-Moreira;2026-10-07;USEI04: implement robot sorting and assignment logic
+2e74af0fa3d77758f07a1fbd8f8df97b35750658;Liz Pereira;2026-10-07;Update - USLP03 documentation.
+c31d36633a659392a0a4a70099995e579248c730;Liz Pereira;2026-10-07;Update - USLP03 implementation.
+c7b2308727048c4cf595d43eff261d602c94ddd9;Liz Pereira;2026-10-07;Merge branch 'main' into develop-uspl03
+ee5c96530dcf1cba5e81b3cdee2e7595ee3121c7;Matilde Moura;2026-10-06;USBD05: implement and populate Oracle relational schema with GeoJSON data and verification queries
+8af87e9cb1e3180bdbc695cc5eb7a7789724ec8e;Matilde-Moreira;2026-10-06;USEI04: add base entities and robot status enum
+1bf8656fb8a3597ed219ee7f2934da7885785fe8;Matilde-Moreira;2026-10-06;USEI04: add base entities and robot status enum
+49aeab37542996c1498831fbeab4b9e13409b247;Matilde Moura;2026-10-06;USBD04: add relational model
+1a7bd4abca7299f54340a8893fc8f04b8de0662c;Liz Pereira;2026-10-05;Update - USLP03 documentation.
+2be8ec6d725730ce35589d92353bf685db10177e;Liz Pereira;2026-10-04;Update - omg I don't know how to write :[
+a212ed9b0b1799dc84e11040f9d85878fcdb1e57;Liz Pereira;2026-10-04;Update
+9437c98bb7c4f66fbf8749b0a27e3a960ec09f6a;Liz Pereira;2026-10-04;Update
+ee1f8d7eb8932281046dcf677eedd1de4d4f205a;Liz Pereira;2026-10-04;Update - readme.md, added the team members and their respective USs.
+7fef9fad244cdc3dc54db410e06b7d9957407695;Liz Pereira;2026-10-03;Update added concepts to glossary.
+9c7686251479b7b793b1a4d0b7a319c8bfb0f0c6;Liz Pereira;2026-10-03;Update added concepts to glossary.
+f3f7366107ba52ab8c79155177553399429cb571;Liz Pereira;2026-10-03;Update added concepts to glossary.
+f56c72bc638fab9cebd912f6b16c0544d29da453;Liz Pereira;2026-10-03;Update added concepts to glossary.
+49cad7363f5e9208d8a6fe28d3a7bc835a349a7d;Liz Pereira;2026-10-03;Update added concepts to glossary.
+cb665a2c7f2c05bda74ed43f16eaeb89be87bd51;Pedro Nunes;2026-10-02;First iteration of the Global Artifact, domain-model.puml
+475a6e498ef8f89aeb3a8b8984ad691f408a975c;Maria Luiza Jobim Wanick;2026-10-01;domain model - addition of entities

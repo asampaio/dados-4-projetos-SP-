@@ -1,0 +1,153 @@
+a263ce10f33f9c1fc95451b03bd7c9752112fe46;1241050-DANIELREY;2026-10-22;[USLP04] doc: remade the Sequence Diagram on account of proper SDP analysis and design
+a223034d429b3379873fef560a89084118b946b5;1241050-DANIELREY;2026-10-22;Created a new MainMenu class for app-two
+2f9fe8de72de81a13fa8b9fc11ad26efcac6c453;1241050-DANIELREY;2026-10-22;Corrections to the UI utils and app-three UI
+ad5cf90d2e56e3881b419f37ac475c1c272cf79a;margarida:3;2026-10-22;[USLP03] Green: Complete implementation and successful tests + valid code documentation (#8)(#110)
+304eb2c6b46109f14ce0fd997e56bfe1cef29d76;margarida:3;2026-10-22;[USLP03] Red: develop tests and minimal UI and DatabaseConnection class stubs (#8)(#109)
+c26713f9cccabcdb1ef8797727ad8255da025fed;Hugo Coutinho;2026-10-22;docs(management): fill in the Sprint 1 self-assessment sheet (#126)
+7dc57e5b05a4ad2ff282eda57f2e974e505adaf8;Hugo Coutinho;2026-10-22;docs(uslp02): untick AC1 and AC3 until the reviewer confirms them (#125)
+27c631cee10b1a20ad305d3e9fa75305fbde87fc;Hugo Coutinho;2026-10-22;docs(uslp01): fix the element count in TC-13 of the qa-readme (#124)
+fa687e4f85abb638a8c8c94af704b8008b656b19;Hugo Coutinho;2026-10-22;docs(usbd05): clarify that NOT NULL constraints are not named (#123)
+e125a419bcb1f1251c85ef796ba0b6646d76d95c;Hugo Coutinho;2026-10-22;docs(usei04): close TC-15, final complexity and updated sequence diagram (#122)
+12fcb3f89f84f198a748d952ab754d761fc4ff97;Hugo Coutinho;2026-10-22;docs(usei04): close TC-15, final complexity and updated sequence diagram (#N)
+dfbb7b4269a69d7d92db9f53d7e5cf10120ea477;1241050-DANIELREY;2026-10-21;Moved the Utils and MenuItem classes to their right directory
+9b73263b844baea2630060f51cd02d2a4ff53152;1241050-DANIELREY;2026-10-21;Added the Utils and MenuItem classes to the shared-library module to be used for UIs across all three apps
+2ba2ce50b804623c6f4ae611b68f85f6a5581ed0;Hugo Coutinho;2026-10-21;docs(uslp04): document decimal level numbers, TC-11 and TC-12 (#120)
+4b674d5c4d657d5261d4d108054a42c5626f5ca1;Hugo Coutinho;2026-10-21;feat(uslp04): support decimal level numbers in the store listing (#119)
+aaf2e4f973408c04fcd3eb50d892b3e3893a2172;Hugo Coutinho;2026-10-21;test(uslp04): add Red-phase stub and disabled tests for decimal levels (#118)
+a1374a8e677679d8eb49855919ecae2cb9956bb5;Hugo Coutinho;2026-10-21;docs(usbd05): update readme, qa-readme and evidence for seed v3 (#117)
+63231d37d82eefe9a5735b782a62ceb22f233c30;Hugo Coutinho;2026-10-21;feat(database): seed v3 - respect rule R17, store without merchant has no products (#117)
+8b9438bcf5b09f8901e7a1d0e42c95386da61105;Hugo Coutinho;2026-10-21;test(usei03) and (usei05): add benchmark for the empirical study of the ESINF report (#115)(#116)
+37405d4ea74d73999039246ac684b3e9d2231c87;Hugo Coutinho;2026-10-21;docs(usei05): align readme, QA and sequence diagram with the implementation (#114)
+e0c2b4858e23a5e7e02c5dd27f43d7ae46deffdb;João Tavares;2026-10-21;docs(USLP05): update readme and qa-readme with the implementation results (#9) (#108)
+69ed939973e652d7d63c55218f1620e4ab43013c;João Tavares;2026-10-21;refactor(USLP05): add Javadoc and named constants (#9) (#107)
+cd3c236c1b660627bc37f76c4f4e11bdf912e968;João Tavares;2026-10-21;feat(USLP05): implement the back-office skeleton – start-up, main menu and configuration (#9) (#106)
+4720b105bfe8d0877609178a98e4f8e298241917;Hugo Coutinho;2026-10-21;test(usei04): add benchmark for the empirical study of the ESINF report (#112)
+b60ed85896b048c6ccb58602ba1272e3e26a0360;Hugo Coutinho;2026-10-21;refactor(usei04): pick the best robot with Collections.min instead of sorting (#111)
+e7763815a22a0951837bde6cfda601cde42df711;Hugo Coutinho;2026-10-21;docs(usbd05): close the readme and qa-readme after the validation on Oracle FreeSQL (#103)
+8b7f6eb96006b4cdd5d074a57f642be93c3cda00;Hugo Coutinho;2026-10-21;docs(usbd05): fill the manual review of the DDL generation (#101)
+ceeba5613ecc7f61f79b41f32bd4283cdf74866e;Hugo Coutinho;2026-10-21;feat(database): add seed data script v2 with updated header (#102)
+9e07713292b2b4d1f0841eda80f27518b09a79e8;Hugo Coutinho;2026-10-21;feat(usbd05): add DDL v2 with updated header and clean formatting (#101)
+562a30934ef800079c90fc35682b6a5a3856c467;Hugo Coutinho;2026-10-21;docs(usbd05): record the validation on Oracle FreeSQL (#103)
+1a4597f0cbbae5bb5f3d128b2ca415ab0989eab6;João Tavares;2026-10-21;test(USLP05): add Red-phase stubs and disabled tests for the back-office skeleton (#9) (#105)
+350e19138dc906cb6f45b33b61ea52bb588f8fcd;1241050-DANIELREY;2026-10-21;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE03
+c7ce7db28baa2d61e6840917583ef5629fc9c8c8;1241050-DANIELREY;2026-10-21;[USLP06] doc: changes to readme and SD
+727cc30c230eda4d96e54d41cb6aa309f99755e2;João Tavares;2026-10-21;docs(USLP05): align readme, qa-readme and sequence diagram with the client sessions and USLP06 (#9) (#104)
+d6f1a65d64db5a65a055cb5ff787a082ecd5f9b0;Hugo Coutinho;2026-10-20;docs(usbd05): update readme and qa-readme (#100)
+5e5082c44a94a5e8bc6b4576cfe0e9eab7ef7ff6;Hugo Coutinho;2026-10-20;feat(database): add seed data script v1 (#102)
+117e2898562504e91e58567d6bcb9d3dc3d0db78;Hugo Coutinho;2026-10-20;feat(usbd05): add DDL v1 generated by an LLM (Claude Code) from the USBD04 model (#101)
+cc3f7ab44ce58c9e1aeb326874714a8e352eba59;Hugo Coutinho;2026-10-20;docs(usbd04): update readme and qa-readme with the final relational model, decisions and price history (#97)
+fc3a1691b92b1aa9bc47f858b07e378804e69cd9;Hugo Coutinho;2026-10-20;docs(uslp02): add product price, decimal level, optional merchant and area identifier to the glossary (#99)
+3ab8f15a1c1e5539ae77425b991dc78b03c5cd1e;Hugo Coutinho;2026-10-20;docs(uslp01): add product price history, decimal level number and optional merchant to the domain model (#98)
+efb6fd57ca664a778a7f2cdae197306b882b496f;Hugo Coutinho;2026-10-20;docs(usbd04): add product price history, decimal level number and optional store merchant (#97)
+e2106e57240b4728674dc4b286177fd4c557cf1d;Hugo Coutinho;2026-10-20;docs(usbd05): update readme and qa-readme with story points, clarifications and DDL approach (#93)
+1710db1998ecc118de9d51642af56bb507b8d370;margarida:3;2026-10-20;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE03
+3258aa9e57062db57b3992a1a4df5be2ac4df838;margarida:3;2026-10-20;create UBD04 logical-level relational model (#19)
+3b5561e1447fbe6415c98b2cde27b584b9192081;margarida:3;2026-10-20;create UBD04 logical-level relational model (#19)
+6eb5dcabd7c2aff6b3c55f40fcbe322d19ee249b;1241050-DANIELREY;2026-10-20;[USLP06] doc: added a new Extra Research section to the readme, envisioning the use of the Jackson external library #10 #47
+829ea034cb7d6d6e3afed1194af059d347c78ab1;1241050-DANIELREY;2026-10-20;[external-libraries] Added the Jackson library #10 #74
+9b0ade167e13b9c168612954b72b4f54f3bb8e00;1241050-DANIELREY;2026-10-20;[USLP06] doc: added to the readme and SD mentions of the Jackson external library (and specifically its Jackson Databind component) for GeoJSON parsing #10 #47 #49
+8377a453cf81651a18256a6a9c50925e46a2078f;1241050-DANIELREY;2026-10-20;[USLP06] doc: quick syntax fix to SD #10 #49
+052055275eaf2e2686f8b199fe48912775ab03da;1241050-DANIELREY;2026-10-20;[USLP06] doc: quick syntax fix in the SD #10 #49
+2c6864b23c5e236a1b23dcee2f5b3888e9b08788;1241050-DANIELREY;2026-10-20;[app-three] added  a console UI directory as well as a Utils class for UI
+2af9add04d1bcf69ee21496d3d663599101f5ea4;1241050-DANIELREY;2026-10-20;[USLP06] doc: quick syntax correction on SD #10 #49
+0e55f07c8d47fdfdb8323b3d7c9e50d3c7f019c3;1241050-DANIELREY;2026-10-20;[USLP06] doc: added svg format of the SD #10 #49
+7bc972db49e6f1be7e337794b98cb68348f8054a;1241050-DANIELREY;2026-10-20;[USLP06] doc: quick changes to the Sequence Diagram
+5c8db998f88ea3b18f986f6daa71ec3465ebebbc;1241050-DANIELREY;2026-10-20;[USLP06] doc: changed the name of "BackOfficeConsoleUI" class to "ImportGeoJSONUI" #10 #47 #49
+7ca5fb8addbaf7e00e65dc069bd6d11f36a449e2;Hugo Coutinho;2026-10-19;docs(uslp02): create readme and qa-readme and update the glossary (#91)
+19f3e0bb7ea4f5186949fb0e8577800e378e9209;Hugo Coutinho;2026-10-19;docs(uslp01): update readme and qa-readme and remove the old template folder (#92)
+a688c7fe5febaf344b75b8a9a7dd882b53c61cf2;1241050-DANIELREY;2026-10-19;doc: USEI02 System Diagram finished #12 #77
+61e3fa6453b7cc94d2632a17158818d1dcbb29d3;1241050-DANIELREY;2026-10-19;doc: USEI02 qa-readme finished
+62262f7259f51094f9dfdbcdead20f6329c9cb09;Lobarinhas11;2026-10-19;USEI05: simplify order fitting logic and enhance refrigeration checks (#15) (#90)
+e92ee38553c3cb07a9ffa201ee2bbe8f7a941aec;1241050-DANIELREY;2026-10-19;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE03
+d5fb61b0748606aa0cb358b95d92fc0dd374a1be;1241050-DANIELREY;2026-10-19;doc: USEI02 readme complete #12 #75
+fb3e21ad2397d0a55b04ffd9ee952a41e7d5203c;Hugo Coutinho;2026-10-19;docs(usbd03): update qa-readme with review status and pending reviewer (#88)
+7898ae1c8c58e00710b132ad80066189eafb3cdf;Hugo Coutinho;2026-10-19;docs(usbd03): set story points, link to USLP01 and add client clarifications (#88)
+67de40c9e6c2f5ea6863af26d83dba5e0dff515d;João Tavares;2026-10-19;docs(USEI03): update readme and sequence diagram with status, decisions and DoD (#13) (#89)
+96fb33252caa658480d5bd87c1bc32dba5711d82;Hugo Coutinho;2026-10-19;docs(usbd03): set story points, link to USLP01 and add client clarifications (#88)
+b570d411f0e4ef351325cf46a57529bf5245c3fb;João Tavares;2026-10-19;docs(USEI03): update qa-readme with implemented tests and execution results (#13) (#87)
+d4eab04cdf2f1e2b55d0e1807b3c518897d8d6ac;João Tavares;2026-10-19;fix(USEI03): support a time window up to LocalDateTime.MAX (#13) (#86)
+6c0a60f729b4d01e80ce0ca23319cffb7df22659;João Tavares;2026-10-19;test(USEI03): cover queue reload and single-instant window (#13) (#86)
+989f5e381db98da4a20cb2d4687979b7045a74b8;Hugo Coutinho;2026-10-19;feat(usei04): green phase – apply the client's refrigeration rule (#85)
+7efa2cbee321d0889f467cd304d7ede8cc952322;Hugo Coutinho;2026-10-19;test(usei04): red phase – refrigeration rule tests TC-20 and TC-21 (#84)
+3d218261ad3504ced97e6fdba1af05059c818543;Hugo Coutinho;2026-10-19;docs(usei04): add the client's refrigeration rule to readme and qa-readme (#83)
+1dea8a55306b75a1e140748483aaf9142e9cb630;Hugo Coutinho;2026-10-19;docs(uslp04): update readme and qa-readme with implementation status and test results (#82)
+d5707b56977103da67b57a7795dce0f1f4fcadf6;1241050-DANIELREY;2026-10-18;doc: added new client clarifications to the USLP06 readme #10 #47
+a6faa7a88b9379d964d55c7e0bb7ca90126bebd9;1241050-DANIELREY;2026-10-18;Finished USLP06 SD #10 #47 #48 #49
+4aabd27cfc906c9094a8bcc58ecb81f14e16a078;Hugo Coutinho;2026-10-18;refactor(uslp04): add javadoc, extract constants and test helpers (#65)
+627644af0e278743dea63990875322e4e7e9cab6;1241050-DANIELREY;2026-10-18;Quick fix to the USLP06 readme GeoJSON research section #10 #47
+833a95405cd42615f8b5fc90779866eb93fd4c76;1241050-DANIELREY;2026-10-18;doc: added new research section on USLP06 readme
+2160bf62ad278f44a493950068176764c6d74582;João Tavares;2026-10-18;refactor(USEI03): window constants and stronger TC-15 (#13) (#62)
+f3312f1cfa366f79a5bd421ef13a49eb3ed40f28;João Tavares;2026-10-18;refactor(USEI03): extract validations and window boundaries, chain the comparator (#13) (#62)
+e2a83c743a6f7071f9855d8176f17cb227c47ce4;João Tavares;2026-10-18;feat(USEI03): green phase – implement OrderQueueService (#13) (#61)
+875fe37a230de190fc67bbe534a84303504de157;1241050-DANIELREY;2026-10-18;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE03
+c01bab1c22d2487dcc7e2277232c069d2432bef5;1241050-DANIELREY;2026-10-18;Removed some tests in readme and qa-readme for USLP06 #10 #47 #48
+47b75ba753e977d8d7d075e2eb9e75a5343ae261;Lobarinhas11;2026-10-17;USEI05: enhance order partitioning service with validation and javadoc (#15( (#72)
+51d269fa01db5cb6adc503625a315188c158c503;Lobarinhas11;2026-10-17;USEI05: streamline order assignment logic and enhance validation (#15) (#71)
+cf6d48e0f762eea313b50a91ade0b410627c3d03;Hugo Coutinho;2026-10-17;feat(uslp04): green phase – implement level and store listing (#64)
+e2735f8c87449370ecaf0350839960246da963ad;1241050-DANIELREY;2026-10-17;Quick class name correction in the USLP06 readme #10 #47
+0df54eda0cdb9200ce560282c4fe1aca30c5086f;1241050-DANIELREY;2026-10-17;doc: corrections made to USLP06 readme and qa-readme #10 #47 #48
+c7e3eed3af60be94eb5ab79f6b0fe3a0745dab3b;João Tavares;2026-10-17;docs(USEI03): align readme, qa-readme and sequence diagram with the Red phase (#13) (#28)
+faa9ac758d41111cc2343d2c9180980b5abff9c8;João Tavares;2026-10-17;test(USEI03): red phase – OrderQueueService stubs + 20 failing tests (#13) (#60)
+b8ff881777db3247b597905b6c68cb9b614a36ee;João Tavares;2026-10-17;feat(USEI03): add requestedDeliveryTime and customerId to Order (#13) (#60)
+f434b66632468f185eea018de08519102609cb3b;Hugo Coutinho;2026-10-17;test(uslp04): add Red-phase stubs and disabled tests for store listing (#63)
+2260b1ae66bbd6cabdd14a397397ff82af61ce43;1241050-DANIELREY;2026-10-16;doc: finished qa-readme.md for USLP06 #10 #48
+405477fa55a8153a5e6289348e30560bd9515f5c;Lobarinhas11;2026-10-16;docs(qa): clarify order status handling in partitioning test cases (#15) (#73)
+adcdd4ecc9e7c1a8d8ed3bd906e8e0ac6714a1e3;Lobarinhas11;2026-10-16;USEI05: implement tests and service for partitioning and assigning orders to robots with working tests (#15) (#70) (#71)
+71a4849311ea9f0823fc41653f98207bcb6af322;Hugo Coutinho;2026-10-16;docs(usei04): tick Javadoc item in the readme DoD (#69)
+9e27d47d1e0f5f04cdbb273745260f55508477e3;Hugo Coutinho;2026-10-16;refactor(usei04): add missing Javadoc to Order, Robot and RobotAssignmentService (#69)
+629768fac02bef7d21d64d0e9dbb1dbff8d46fdc;Hugo Coutinho;2026-10-16;docs(usei04): update readme with status, estimation, decisions and DoD (#68)
+a4ff42ed4d18fbf66d60016fa3770f31e2da004c;Hugo Coutinho;2026-10-16;docs(usei04): update qa-readme with implemented tests and results (#67)
+f61cc694bb8d80a808ad4637f11a766ea65e62ed;Hugo Coutinho;2026-10-16;refactor(usei04): align JUnit test names with qa-readme (#66)
+480f25d7336d94e67cb6ef0eb4213b27a07b0371;Hugo Coutinho;2026-10-16;refactor(usei04): add Javadoc to all domain classes (#34)
+92f0b654daa4b2ccd190075ff1df974940d0d6d5;Hugo Coutinho;2026-10-16;feat(usei04): green phase – implement RobotAssignmentService (#33)
+91370710ec7a83a41e971e3a7351561e5841fa69;João Tavares;2026-10-15;docs(USLP05): set module to app-three per team decision (#9) (#50)
+cc2ba7129095790f7c3ab239604ca5b0d9a91937;margarida:3;2026-10-15;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE03
+87d96e8ec0eb83cece6baef371c3687bd8598585;margarida:3;2026-10-15;add USEI01 (#11) readme file (#59)
+64b9fc3bfd4aa15fe0fd85c6a0ca4d980fc2b390;margarida:3;2026-10-15;add USEI01 (#11) readme file (#58)
+4c65826fe84a0b233b9a15c4bb8117658df039da;Hugo Coutinho;2026-10-15;test(usei04): disable red phase tests before merging to main (#32)
+8672ab2f58573fa320d9903c519cf8b11f865f72;Hugo Coutinho;2026-10-15;test(usei04): red phase – domain stubs + 17 failing tests (#32)
+331f1d6d88cf5f64884e4fd0ef448797fcce0019;João Tavares;2026-10-15;docs(USEI03): align documentation with the domain model (#13) (#28)
+3fb0db07db0bff8b709a7d6b0614e1aa3718ce2b;João Tavares;2026-10-15;docs(USLP05): add missing rendered sequence diagram SVG (#9) (#51)
+faa9ba09b2b9b1c43dc70abdeb809b0e9107aad0;João Tavares;2026-10-15;docs(USLP05): add rendered sequence diagram (#9) (#51)
+8b68ef3626cfb8efbf63e7d9ed1543168607b351;margarida:3;2026-10-15;add USBD04 (#19) qa-readme.md file (#55)
+916316071bafa7cd8eadf76614cf5f7d23c37127;margarida:3;2026-10-15;add USBD04 (#19) readme.md file (#53)
+6b127b0d188d7ce698f79e929506ed7181af7376;Lobarinhas11;2026-10-15;docs(USLP01): add QA and test documentation for domain model (#6) (#45)
+83df14e76013f44fd7a9badcb723b894949e81a9;margarida:3;2026-10-15;USLP03 (#8) add qa-readme file (#54)
+0f5b179bebd2e9d7401e8b03bdfa1eb5b965e88a;margarida:3;2026-10-15;USLP03 (#8) add readme file (#52)
+5bbf41f5e5fb20d22678596edce3035416a075ba;1241050-DANIELREY;2026-10-15;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE03
+3b2d98fe4834de56c98fd453bc732b625e272db1;1241050-DANIELREY;2026-10-15;Created and finished the readme documentation for USPL06 #10 #47
+1b85e7789e785f331a9cee607de06351f049f7f4;João Tavares;2026-10-15;docs(USLP05): fix folder name USPL05 -> USLP05 (#9) (#50)
+687f1d0b59fcbfa782394c5d4ba5f57f71347c71;João Tavares;2026-10-15;docs(USLP05): add readme and QA documentation (#9) (#50)
+d8e116d2513b2ed68904b48f0d457da068e0802e;1241050-DANIELREY;2026-10-15;Glossary refinement
+f8cb05788cd38c642be56129c06d8936e3767474;Lobarinhas11;2026-10-14;docs: update project glossary with definitions and relationships for value objects (#4) (#44)
+8e62088f2880ff6225b40e4a84341aecd8ae5eb1;Lobarinhas11;2026-10-14;refactor(domain-model): enhance value objects and update relationships in the domain model (#6) (#43)
+93ef3360e2ff2d2dc05cee66125cf24c31ca54e2;João Tavares;2026-10-14;ci: restore app-two Main and remove remaining template tests (#30) (#42)
+e1ad09cf2409467efe6c63e8741de01dd85fcbe8;João Tavares;2026-10-14;docs(USEI03): add rendered sequence diagram (#13) (#35)
+9f7bbe9f1f0ee7110b7100008905116157fb63a8;Hugo Coutinho;2026-10-14;ci: add 5-minute timeout to nightly build and remove template Main tests (#41)
+aad995b8c2e507ae0ef0e90815e7083dcd9e6334;João Tavares;2026-10-14;docs(USEI03): finalise readme design and complexity (#13) (#28)
+1153e8e205421e8f12712f40d3da46211820c95f;margarida:3;2026-10-14;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE03
+b034aa42d1f177466ad1dd64dab1410df0880fed;Lobarinhas11;2026-10-14;USEI05: add sequence diagram and documentation for complex order partitioning across multiple robots (#15) (#31)
+01c5c54953ad4384428fbe06fc9a06eac479d411;margarida:3;2026-10-14;add sd for USLP03 (#8)
+49705bea29b0f3b9289b23b432ff449144d0e054;margarida:3;2026-10-14;add sd for USEI01 (#11)
+f8dbb7fe992358ad5412c7639b065a493cc1e3ba;João Tavares;2026-10-13;Your new commit message
+3d6b04f47922f09318a2f3388e9153a315860e26;João Tavares;2026-10-14;docs(USBD01): add database requirements analysis and QA review matrix (#16)
+13fde67bdfb31a5b6a9c047f382cb11ec46fdfa7;Hugo Coutinho;2026-10-13;fix(esinf): correct USBD03 and USLP01 relative paths in USEI04 readme (#14)
+e2d2853d6e6dfc525957c395fb87ed699a1d45c7;João Tavares;2026-10-13;docs(ESINF): fix USEI03 acceptance criteria to match specification (#13)
+e0fb287c96049670000ec1312ec958066df3b4a9;João Tavares;2026-10-13;docs(ESINF): add USEI03 order queue management documentation (#13)
+256781443e061b64240be2c478f4a11833569902;Hugo Coutinho;2026-10-12;docs(bddad): add USBD05 Oracle instantiation documentation (#27)
+4cb310ae7064d06ad5317f2954e69bc69ef51bf6;Hugo Coutinho;2026-10-12;docs(bddad): add USBD05 Oracle instantiation documentation (#27)
+48a3d788e865b5f954f4d61df43ebba8d1881d0a;Hugo Coutinho;2026-10-12;docs(bddad): add USBD03 conceptual domain model documentation (#26)
+bc5420c77d0dbe6624435cb67bcae6f4d0828088;Hugo Coutinho;2026-10-12;docs(USLP04): add rendered sequence diagram (#24) and Rename directory
+87bd54b86afd7e8fe22699714f2d6cc64c22e676;Hugo Coutinho;2026-10-12;docs(USLP04): add user story documentation for listing available stores (#23)
+124e89fb6c9132cf30b2d353b6642320efada4ef;Hugo Coutinho;2026-10-12;reorganization of documentation folders and task swapping among team members.
+d68fc2f466b547242886fefe5b0bc0148e1c9a9d;João Tavares;2026-10-10;USBD01 - add user story documentation for the project requirements document (#16)
+55a375f467cbebef8da7b4c7fe63cb00763e4328;Hugo Coutinho;2026-10-09;docs(USEI04): fix readme filename and complete feasibility and assignment rules
+8e7f6a3e46bbf7fa8e32640f18af6fdbfb5653cf;Hugo Coutinho;2026-10-09;docs(USBD02): fix glossary inconsistencies and align domain model
+9225d7fffc59262e32b863c69341c6e9045e7d2f;Hugo Coutinho;2026-10-09;docs(USEI04): add user story documentation for feasibility check and single-robot assignment
+c7ed3263588a9eae5ad29c63845cdca8b2aa8102;Ivo Figueiredo;2026-10-08;Merge pull request #22 from Departamento-de-Engenharia-Informatica/update-domain-model
+c4b3e8b2080d0144a3a8915e9fc15aa89a62481d;Lobarinhas11;2026-10-08;USLP01 and USLP02 - update the domain model with improved connections and added/removed classes, update glossary with new data (#6) (#4)
+17415dbefae1c24c2a7e5101b85a058ba119a154;Hugo Coutinho;2026-10-07;docs(USBD02): add user story documentation for the project glossary
+eb564150f5c7afecb138148a06642e3c04e5647c;Hugo Coutinho;2026-10-07;docs: fill Sprint 1 Assigned Work table in doc/readme.md
+7813b34b8c7cb5ef3f7700bf3d649df566cb7fd4;Hugo Coutinho;2026-10-02;docs(glossary): add Shopping Cart, Retailer Administrator, Route and Stop
+1d738b50ccf8a978dee0d658824f09c74dc94ef8;Ivo Figueiredo;2026-10-02;Merge pull request #21 from Departamento-de-Engenharia-Informatica/glossary-domianmodel
+33227ca793ef866debcfb9f02160d1d151bcbbf9;Lobarinhas11;2026-10-02;USLP01 and USLP02 - Starting working on the domain model and the glossary of the project

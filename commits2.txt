@@ -1,0 +1,286 @@
+7abcbfde609f8d514f58a0a8aaa2c629212a227a;Borges27;2026-10-21;#6 update USLP06 readme and sequence diagram with the import errors
+b1fb16af57fb5677395720040f6846fdf979dbfb;Borges27;2026-10-21;#6 report a missing location or an already imported store before saving
+38de48588d0606ed041d36ab292fd12fadf29d66;Borges27;2026-10-21;#6 USPL06 diagrams
+3aa80c6e1bf2706a419fb229610ce40dffd43269;Borges27;2026-10-21;#6 add USLP06 readme
+51b79356dff2e0571ee6981d012db7a5e8b913d2;Borges27;2026-10-21;#6 save the imported layout in the database from the import UI
+378a823f1931d19b19d407c9b89aff748b4dece7;Borges27;2026-10-21;#6 save the imported levels and stores from the import controller
+fbdd10f32a1e11111001dc7a7a02e1a7c8208385;Gonçalo Abreu;2026-10-21;#11 update the USEI05 section of the ESINF report after QA
+fa44b9b4b6ace9878e701f508cd05ae5df565b0a;Gonçalo Abreu;2026-10-21;#11 update USEI05 sequence diagram after QA
+0fd7c7f60974f4651ff2e748759a18cd212a89c9;Gonçalo Abreu;2026-10-21;#11 update USEI05 readme after QA
+f089ba2bc458cf65f350cb357e23bc3ab5a65371;Gonçalo Abreu;2026-10-21;#11 measure partitionAndAssignOrder without the setup in the benchmark
+859652b067de55113ca084ecf08d2b3bf36e797c;Gonçalo Abreu;2026-10-21;#11 use a plain dash for the item lines of the summary
+44619b91660e8b1448ce70c11887df3c3f18e37a;Gonçalo Abreu;2026-10-21;#11 apply strict segregation, size sub-orders for available robots and match with backtracking
+cf5217f6507b90e7ac06d4c3d4b5571e49a33afc;Borges27;2026-10-21;#6 add the DAO that saves the imported levels and stores in one transaction
+64c150d5de7330fd1b2a8839fbcdc1d1937c75d0;Borges27;2026-10-21;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+170a2f0ff4a62dda30f985073dd1c82aa9f4508d;Francisco Marques;2026-10-21;#10 update USEI04 sequence diagram
+75ffe4815ce0c4e700b9c25ecdd0e936e65751a9;Francisco Marques;2026-10-21;#10 update USEI04 class diagram
+94d6a7ee1c35617ea02bbc3591c6d066c250610d;Francisco Marques;2026-10-21;#10 update USEI04 readme for the strict segregation
+b1043f9e7ae934c93b48d679b1c0233683924758;Borges27;2026-10-21;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+8b16bd5f9334f5750cfca2e22cb7e4076d0425c8;Francisco Marques;2026-10-21;#10 do not count robots for mixed orders in the USEI04 benchmark
+ebcae31f519128289540af8095831815b44bea73;Francisco Marques;2026-10-21;#10 apply the strict segregation of refrigerated and non-refrigerated robots
+c1f1a84621ab8c7614a2ddfa196884e0f51561b6;Francisco Marques;2026-10-21;#10 explain why an order is not feasible for one robot
+a980bebcb4ce2e73ba13621cece8ba3944fe490f;Borges27;2026-10-21;#5 approve USLP05 after the QA re-test
+9392568c182c3eee300e32a3f7dd76eaff437ac3;Francisco Marques;2026-10-21;#11 add USEI05 QA report
+dde0b0180a3aac5ef471123c400b0d70cabf7b16;Francisco Marques;2026-10-21;#10 update the USEI04 section of the ESINF report for the strict segregation
+1015997495c3a57fc2950b641ff417cec6f5d31d;Borges27;2026-10-21;#6 add the layout import option to the Back-office menu
+0e9a143e96b12c1c697858f04560f8ab4cf5c42c;Borges27;2026-10-21;#6 resolve the layout path only when the import runs
+6ec0282faaf27b6b97040a5d1aa03d706e982aea;Borges27;2026-10-21;#6 read the location of the layout import from shoprobot.properties
+4e11a90ae58001b1c6d25cc8f9c1a692408aeba7;Borges27;2026-10-21;#6 list the imported stores of each level
+b48cce1c18bcebc0b53bb8f567281caa18572546;Francisco Marques;2026-10-21;#5 update USLP05 sequence diagram after QA
+22a8abf347162d0f4559c331ad385557cf8520aa;Francisco Marques;2026-10-21;#5 update USLP05 class diagram after QA
+669548ab3a47ecbd302ba57685a79a631f83062b;Francisco Marques;2026-10-21;#5 update USLP05 readme after QA
+4e4376793418e9acd2dabd8e9e0fd254672525de;Francisco Marques;2026-10-21;#5 add Javadoc to the BackofficeMenu constructor
+6b70dc549882f37a1043531434b8fc409ac37535;Francisco Marques;2026-10-21;#5 read an empty JSON file as a missing node
+0678a97500e4113ebd4832d203dfbe8b1fc89416;Francisco Marques;2026-10-21;#5 read the layout path from shoprobot.properties and report invalid paths
+3e1b47f3bfe2a8d69753ba576cc8d11baa55bdcc;Francisco Marques;2026-10-21;#5 add the shoprobot.properties file with the layout path
+c73b49a2f85ff1a0e1c8d30eff9bd4ddbb2a44dd;TDevMarquez;2026-10-21;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+f3912a83c01715209b83de2945e0ad26cdfe5ab8;TDevMarquez;2026-10-21;#7 document private helpers of CsvDataImporter
+05d8c05a47c7a7ae9e5b7d1f0f6334caced6748d;Gonçalo Abreu;2026-10-20;#12 add US documentation and update requirements to v1.3 with client session notes
+bbb5c2af454afb6121fa30cd7f31fa693f57b575;Gonçalo Abreu;2026-10-20;#11 add USEI05 section to the ESINF report and update readme
+258dacafa32c495a00cecb417f9118b9cad7924c;Gonçalo Abreu;2026-10-20;#11 add OrderPartitioningBenchmark on medium and large datasets
+44298d919de38262e61024689aa23eec992be091;Gonçalo Abreu;2026-10-20;#11 integrate complex order partitioning into PlanningMenu and Main
+5886f9e6941a65cfe819b687e0fe2485234f48ef;TDevMarquez;2026-10-20;#7 document ImportResult record components and hasErrors
+f20a4bbcbf3045a6687a1982a6380b28af5a752b;Gonçalo Abreu;2026-10-20;#11 implement OrderPartitioningUI with structured summary and unit tests
+e6cce24845ee8e62e7f45072487dc51dc1ad4242;TDevMarquez;2026-10-20;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+b67e6d3e27e1c1231c490eba46f3c869acfa9e7f;TDevMarquez;2026-10-20;#7 add descriptions to Order getters and totals Javadoc
+fa7dfc543d276ef264ca15ac451aef3f438dfa94;Gonçalo Abreu;2026-10-20;#11 implement OrderPartitioningController with unit tests
+ec969324a6a3b0abad580fc22f5e61a806838a85;Gonçalo Abreu;2026-10-20;#11 add unit tests for OrderPartitioningService
+e7404b6f39ba8ae4aa0c30c26940c9fa19a6ea64;Gonçalo Abreu;2026-10-20;#11 implement OrderPartitioningService with FFD bin packing and multi-robot matching
+cdc77952591df11698e9b83d84b82373d0a82d9b;JoaoFerreira420;2026-10-20;#10 add USEI04 QA report
+c91885225b0131817288dd0b7070fa26089a2561;Borges27;2026-10-20;#6 keep the polygon of each GeoJSON store for the area table
+6f11146cc36678f1c98307a1d1a18957acc9cb08;Borges27;2026-10-20;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+07d0cda4196eac4d041834aa2a7fbd59758181db;Gonçalo Abreu;2026-10-20;#11 add unit tests for SubOrder and PartitionResult
+581b3ab1243a8fb1d7f24d4afecfcdb5f430e187;Borges27;2026-10-20;#6 add the GeoJSON layout import text UI
+a12b16f068c4a17137f2e57cc02e9c9443df309a;Borges27;2026-10-20;#6 add the GeoJSON layout import controller
+e702d053b457eab559500ee742d39e0eeebdd6b9;Borges27;2026-10-20;#6 get the levels with stores from the GeoJSON import
+6883d6ae603dbba61fd397f7cebf5206829ea925;Borges27;2026-10-20;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+c3127a0bf70734b9582c0f2bb1729fad78c4cc0c;TDevMarquez;2026-10-20;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+91af82266e02768cdf33a96a3345d5ef36e4b026;Borges27;2026-10-20;#6 test the GeoJSON parser with the NorteShopping layout
+5083e96c08cf47f3b10d3eb838fd02323fe00c92;TDevMarquez;2026-10-20;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+eedb593935dfa3d5c47c7310652cd0f4ef4d89f4;Gonçalo Abreu;2026-10-20;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+deb6fe0b08857a00f4ce87e7d0bdccf6dd12bfb7;TDevMarquez;2026-10-20;#16 add USBD05 QA test report
+894753fc66da2293814a5436eee539a63b7981b1;Borges27;2026-10-20;#5 add USLP05 QA report
+5bd38bbfae47864560a883935ab389e78792ef7b;Gonçalo Abreu;2026-10-20;#11 add SubOrder and PartitionResult domain models
+f09aa5fdcb003c81bf809ecc116c0cbff0f5285a;Francisco Marques;2026-10-20;#4 update USLP04 readme to the MVC structure of JavaApp
+64076302d2064d87ab11fe80c3db641cc2c4a0d7;Francisco Marques;2026-10-19;#3 add USLP03 sequence diagram
+0bcbfa7e3d393448ed956d557cb39ffaa64fedfe;Francisco Marques;2026-10-19;#3 add USLP03 sequence diagram (PUML)
+2c92380a0ea9a424534058cbefe125badc0da265;Francisco Marques;2026-10-19;#3 add USLP03 class diagram
+725f51ab9b4bb1ed101ca4ac0eec0a5b05aecc1a;Francisco Marques;2026-10-19;#3 add USLP03 class diagram (PUML)
+a302fe16b3f7faed34a07316095c4798da0db748;Francisco Marques;2026-10-19;#3 update USLP03 readme after QA approval
+e7f2624c5ea0d907cfe1f2afea4e70eec02d3540;Francisco Marques;2026-10-19;#5 add USLP05 sequence diagram
+37674cf37e9ae4ac77cb0942e851bb2f668ca59e;Francisco Marques;2026-10-19;#5 add USLP05 sequence diagram (PUML)
+01c6956c08e1a632358f304e4d7f0fe42569539a;Francisco Marques;2026-10-19;#5 add USLP05 class diagram
+d4f8bf61839cf842f1159190df64f215b1a39bcf;Francisco Marques;2026-10-19;#5 add USLP05 class diagram (PUML)
+f8031af985afb0ed2ec1fbb8cfe3dfa77e5ecc7b;Francisco Marques;2026-10-19;#5 add USLP05 readme
+1046108419c7f2c0e0049382f33afd528217e608;Francisco Marques;2026-10-19;#10 add the USEI04 section of the ESINF report
+d9764913f0622302052e548c850fe3e540eb7c5d;Francisco Marques;2026-10-19;#10 add USEI04 class diagram (PUML)
+fcc35928c1c77a589607aa66fcd5f591fe8ae456;Francisco Marques;2026-10-19;#10 add USEI04 sequence diagram
+31ae3d8f103dada74574de60923f09ae986356cf;Francisco Marques;2026-10-19;#10 add USEI04 class diagram
+6291612c2e056e9b0a38045c89f3476441cfca08;Francisco Marques;2026-10-19;#10 add USEI04 readme
+41e4f15ca43af07b1438af8bfd917d194b06f3ca;Francisco Marques;2026-10-19;#10 add the USEI04 benchmark for the ESINF report
+598cf224cea6a20dee0b393badf160c563e6d998;Francisco Marques;2026-10-19;#10 test the single-robot assignment with the medium dataset
+6d1f198785453997b889d66ce5a0b8d84f6172d7;Francisco Marques;2026-10-19;#10 share the stations, robots and orders between the Planning options
+d24e1a152851ac55e79c61104d19543ab8cb5d63;Francisco Marques;2026-10-19;#10 add tests for the single-robot assignment option
+da35f62831b976c4f5ab2d3571b2bb7ef82104df;Francisco Marques;2026-10-19;#10 add the single-robot assignment option to the Planning menu
+ea1c7559bee59f62b22dd5a81435de36d33fa1a3;Francisco Marques;2026-10-19;#10 add tests for SingleRobotAssignmentUI
+1d1bc65e392637d121b605e62fb966d1e49aa66c;Francisco Marques;2026-10-19;#10 add the single-robot assignment text UI
+78dd6297c27f2869c223f6112a15eaa532e5bb39;Francisco Marques;2026-10-19;#10 add tests for SingleRobotAssignmentController
+ec4574a58d9d9f4ba68ac352e400e0f17f1b3b4e;Francisco Marques;2026-10-19;#10 add the single-robot assignment controller
+a80fab3e209a4b74199f4f31cdcec27672f6928a;Francisco Marques;2026-10-19;#10 add tests for SingleRobotAllocator
+42401a5d8d05902f5d67febb40ff5d744bca33f8;Francisco Marques;2026-10-19;#10 check feasibility and assign an order to the most suitable robot
+be0de47dcdf5d3ff8cc66d99247016b3572798bb;Francisco Marques;2026-10-19;#10 add tests for RobotFleet
+1dabb017a9aa390b8bdeada18f865eb68f05ee1f;Francisco Marques;2026-10-19;#10 keep the READY robots sorted by battery in RobotFleet
+f05a69bdd46932f47420665607ebdd3f0dc0ff46;Francisco Marques;2026-10-19;#10 add tests for StationMonitor.update
+2cfcaeaa7b14f6c9259f7b84c9a6a1a65e7d02c0;Francisco Marques;2026-10-19;#10 update the parked robots of a station when a robot changes status
+9157a42a7e6afdd225be1201dc7a0d5c63a33f71;Francisco Marques;2026-10-19;#10 add Robot.withStatus to change the status of a robot
+43546dc9b8f763ee202e5e38dce874719793b08c;Francisco Marques;2026-10-19;#5 open the Back-office menu from the main menu
+ad2109b27d5aa12c182f77de42273b7bd72def9b;Francisco Marques;2026-10-19;#5 add tests for BackofficeMenu
+73f184d23bf422414c761a0e67be1be34581b3f9;Francisco Marques;2026-10-19;#5 add the Back-office text menu
+c1d2b5b21162d326fad7f3278e7df38abb5f035f;Francisco Marques;2026-10-19;#5 add tests for BackofficeController
+bbe31e440590fe8d7b0f987a6419fc6991b677c3;Francisco Marques;2026-10-19;#5 add the Back-office controller
+ba44878e49806586bffb7f960e440f3c095fb3a0;Francisco Marques;2026-10-19;#5 read the JSON layout file from the environment
+848440d4abaa5bfa50340a9416f18d879ee714a9;Francisco Marques;2026-10-19;#5 read the JSON layout file from the environment
+55115b96cc33150ad3debf3b5477005c984341ef;Francisco Marques;2026-10-19;#5 add tests for JsonFileReader
+3e5ff7a8a4d14b80e541e16554688091e5778517;Francisco Marques;2026-10-19;#5 read JSON files with Jackson
+f7da5e04ce0e0f52244a98d86a5e85330a123447;Gonçalo Abreu;2026-10-19;#11 add USEI05 sequence diagram
+0b7bb9be96de12924984b21a6e15f1a12e7ecebc;Borges27;2026-10-19;#3 approve USLP03 after QA-03 (verified on developer's machine)
+8995e4796a0f7c2465c5f3870380286426f4f0fb;Gonçalo Abreu;2026-10-19;#11 add USEI05 class diagram
+710925cb112c4830f75c14030e031a6560a813a1;Francisco Marques;2026-10-19;#3 add tests for ConnectionFactory and ShoppingController
+cc7cc342c034c763432e7ac3918602fa8e266223;Francisco Marques;2026-10-19;#3 rename the Shopping menu exit to Back
+76e5da578071c3118377cb1918a96b307a273c55;Francisco Marques;2026-10-19;#3 keep the application running when the Shopping database is not available
+5e30b85b0e30460e425014f33f7b5158aba71931;Francisco Marques;2026-10-19;#3 create the sample Shopping tables only in H2 in memory
+d49540b9990acee71e525b5bc2dc0ab36de06743;Francisco Marques;2026-10-19;#3 treat blank database variables as missing and detect H2 in memory
+1c97189b452d8e45df40719b206eb63d6148a25d;JoaoFerreira420;2026-10-19;#2 update glossary with the Sprint 1 planning and import terms
+a4a53fdf947ab012ced5cdb282686693e77aa85f;Borges27;2026-10-19;#6 skip GeoJSON stores without a whole level with a warning
+dd274d16cf4daf2a91bca980c5b4081cd2bce7b9;Borges27;2026-10-19;#8 update USEI02 QA report after re-test
+76ab07666dc09e0084466be331a0bb4bb10f8719;Borges27;2026-10-19;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+a950855e67546ec64f6e45b127b9b1f7ed15ca59;Borges27;2026-10-19;#6 skip GeoJSON stores without name with a warning
+9cc0845ae7f2000fcb0b1561aef9a4f4b8564984;JoaoFerreira420;2026-10-19;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+ca8f3cb4c9a3f49e4e2e06634a31bf0f86dd0c12;JoaoFerreira420;2026-10-19;#8 document QA-03 and QA-04 of USEI02
+748d828d1e320e60ed7d9269f04590c1b4ca732d;JoaoFerreira420;2026-10-19;#8 find station ids ignoring case
+3b03016dda436c36265ce05fd2d3ff4d9a296d41;Gonçalo Abreu;2026-10-19;#7 add USEI01 QA report
+6a7369a51a904e602f5e8d12bcb6e34b7ba2724f;Borges27;2026-10-19;#3 add USLP03 QA report
+251119c881478152f14d2fdd1a00a0f0d0e053f1;Francisco Marques;2026-10-19;#3 add USLP03 user story documentation
+8739354c616d43720718fb03a66e05734300ebb6;JoaoFerreira420;2026-10-19;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+16d627211bcdf0b5800b58c92cd32c890cb8bb50;TDevMarquez;2026-10-19;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+50a00f6e6c2f4df8f6551658b9823f7f688f9767;JoaoFerreira420;2026-10-19;#9 update USEI03 QA report after re-test
+b156e6ba229e9efa0aec6dd729b00da04bfedbcf;TDevMarquez;2026-10-19;#7 Implement USEI01 CSV import validation
+633f0e799a6a5c2e12f3c5d1c027a6281fed8f5d;Gonçalo Abreu;2026-10-19;#11 add USEI05 documentation readme
+dfc62b3f201e778040306afd963b207216eb1f5f;JoaoFerreira420;2026-10-19;#8 update USEI02 readme after QA review
+7839298cc79b49b1c17e590ebf478093104239f7;JoaoFerreira420;2026-10-19;#8 add USEI02 class diagram
+065834c22c16e15171a3830a98c97894e49f91f1;Borges27;2026-10-19;#6 add GeoJSON layout and first GeoJSON store parser test
+634cee8f052b4ac2624741686ebfc3784cd7caf5;Gonçalo Abreu;2026-10-19;#4 add USLP04 diagram renderings and update readme
+90dbdd1303938aec736077bc980749fb10d62237;Borges27;2026-10-19;#9 allow fixing the current time of the order queue
+52e8725f52c4a9faf516b44012bef4a4037b8dfd;Borges27;2026-10-19;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+30aa7a4a7f9d36d494d7952e87befe47af8a26b0;Borges27;2026-10-19;#9 keep the import order of the planning data
+f2d84a371a78ba7cd7523d33622359362e80cff3;Francisco Marques;2026-10-19;#16 make T04 test independent of the shopping cart foreign key
+89f7870a60bab52a9ee3695708503569ee94e230;Francisco Marques;2026-10-19;#16 fix B12 feasibility query after adding the robot location
+ca13f09d495706e8ad43725412c01f5e3ddab818;Gonçalo Abreu;2026-10-19;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+108f6515d153983ff5196fdd90e6b1ef20fe6321;Borges27;2026-10-19;#8 add USEI02 QA report
+8f74f745cc4497f6e0c34963e0465e996e9abb67;Gonçalo Abreu;2026-10-19;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+182b3bef0581fa05cbf792c979b13e8c783e18d5;Gonçalo Abreu;2026-10-19;#4 update USLP04 class and sequence diagrams
+82e337fda84f15cd2fe1a925badab529f415539c;JoaoFerreira420;2026-10-19;#9 add USEI03 QA report
+966ea9b2acb9737aa06d163253e100c8b4003058;JoaoFerreira420;2026-10-18;#8 add USEI02 sequence diagram
+e722422f02f92b4d70a68b288a0d649661afbaba;Borges27;2026-10-18;#9 add USEI03 sequence diagram
+8cc4a456f7f832b3bbc8fdef9088bb7ee130f18a;Borges27;2026-10-18;#9 add USEI03 documentation
+074f257995c885e09061d0cd58622c3e6c1e80df;Borges27;2026-10-18;#9 add USEI03 section to the ESINF report
+262596334c9349d732038a631b85285f7ce59fad;Borges27;2026-10-18;#9 add USEI03 benchmark for the empirical study
+4688af848e70e8c5bc0a1a4cd55de25b0d6ea846;Borges27;2026-10-18;#9 show overdue orders apart from the orders due in the next hour
+387ae0583856a42cd5df1f7b68126d1b9af29d22;Borges27;2026-10-18;#9 load imported orders into the order queue
+81b87055c851849585dc4b544d754c7caad2e213;Borges27;2026-10-18;#9 add order queue option to the planning menu
+0ef2f80cf5d4b8311485773e7545ddbbb0f80799;Borges27;2026-10-18;#9 add orders of a customer to the order queue UI and add mark order as processed to the order queue UI
+53bfa1e44be7cca26670bfc8dcdd9f420d853619;Borges27;2026-10-18;#9 add orders of a customer to the order queue UI
+5853a1de9107818fb0b1b7a227cfe8622e06ecbe;Borges27;2026-10-18;#9 add orders due in the next hour to the order queue UI
+a39f4b244c2923c464f473439bf4a25f00a8361a;Borges27;2026-10-18;#9 add order queue UI
+37f6c5adc7ebe10ac9a74c56a95599d6a0f43efa;Borges27;2026-10-18;#9 add order queue controller
+47f36044a0d9b69b589d64b434bd81fd36ee66a5;Borges27;2026-10-17;#9 add time-window filter, generic filter and safe removal of processed orders
+f1ca9ebe98037b22c315b87768a83ad1dc58d501;Borges27;2026-10-17;#9 filter pending orders by customer
+f06728e89b6ae251bd0e98d9de814c3604171345;Borges27;2026-10-17;#9 reject null and duplicate orders in the queue
+cbe0846354d0c37280f0f8aa3d79ad22d526ece4;Borges27;2026-10-17;#9 poll orders from the queue by earliest deadline
+748953ec15c08d23cb5ba1522474c629aa1d846d;Borges27;2026-10-17;#13 DBGlossary update
+cd8645ccdbecc0d28f470c28a72140756883ae2a;JoaoFerreira420;2026-10-17;#8 add USEI02 story points
+fba66c7d92cafd245a714941847d13e074acb459;JoaoFerreira420;2026-10-17;#8 add USEI02 section to ESINF report
+df4183799fc24ab1b3ec4dd91c52b2b9770b6ade;JoaoFerreira420;2026-10-17;#8 add USEI02 benchmark for the empirical study
+858ed48fe6e25c57cb0bf392eb3401918a567405;JoaoFerreira420;2026-10-17;add ESINF report structure
+49da0be364aac1621a293979b8a55f33c1e7fc78;JoaoFerreira420;2026-10-17;#8 update USEI02 documentation after implementation
+43988d72c3cb0195e056baea9837527531270103;JoaoFerreira420;2026-10-17;#8 connect station monitoring to the planning data in main
+32a3b354aea71b45c9b327c6225a6862c684421a;JoaoFerreira420;2026-10-17;#8 load planning data from CSV in main
+50334b305dd30e9d7bb567a6fb219e783ede680a;JoaoFerreira420;2026-10-17;#8 add planning data settings tests
+3136fa2430da1b3a0316471d72d7b742221a8cae;JoaoFerreira420;2026-10-17;#8 open planning menu from main menu
+5513eac4400d43af835ffa974cd6358337ff12b3;JoaoFerreira420;2026-10-17;#8 implement planning menu
+6a11d9811e83aa171716b4708edad5ce2a7f9a46;JoaoFerreira420;2026-10-17;#8 add planning menu tests
+2cc1ebd93b81138eb5b128472f43328f3c1e3237;JoaoFerreira420;2026-10-17;add ESINF Sprint 1 datasets
+910a7311c2f1ba3fdab24d7bd6798a00d9c3a3e8;JoaoFerreira420;2026-10-17;#8 implement station monitoring UI
+d9d1f8f012666f7d960d1af9fe193d78a7ed5a0a;JoaoFerreira420;2026-10-17;#8 add station monitoring UI tests
+4e906f0b6ca33ab5dc268b927cfd88349161d0fa;JoaoFerreira420;2026-10-17;#8 implement station monitoring controller
+f0d59afe63d9b66b258aa07f7ed4044c2c51fa04;JoaoFerreira420;2026-10-17;#8 add station monitoring controller tests
+363c37048b98980e9ad037c80d7419535f301ea1;JoaoFerreira420;2026-10-17;#8 implement station monitor
+7410518475f525405411d886d8e4dfe119e9153d;JoaoFerreira420;2026-10-17;#8 add station monitor tests
+e4bd22e0febd57b20cbe7cb805f5dd4fbec43614;JoaoFerreira420;2026-10-17;#8 implement station status
+5804f0e104f56930c3df429503161ff11d5bc7b6;JoaoFerreira420;2026-10-17;#8 add station status tests
+3724fa672ee06f6d811186aa2c532d22e8d12632;JoaoFerreira420;2026-10-17;#8 implement battery comparator
+5017fe24cd30cfd0cdd6ab6391d9258195e566d8;JoaoFerreira420;2026-10-17;#8 add battery comparator tests
+3ce96dce403443ae1ef187d8e34f1cf1a57d6803;JoaoFerreira420;2026-10-17;#8  add USEI02 design documentation
+6880ac1157042f76162f991f28bb95e073ec743b;Borges27;2026-10-15;#9 add orders to the queue and peek the most urgent one
+dfbf28eca4353857ee6c52037d942560146f51bb;Borges27;2026-10-15;#9 add order queue structures, size and isEmpty
+a103816c29fe0ce127e517647c91efd12964ea12;Borges27;2026-10-15;#9 Enable Order validation tests
+1cdcaa88837ee915f09e4a46de26f772a98efee3;TiagoBorges27;2026-10-15;#15 US Review and QA update
+91e9660935de742505a83e6b5a795131090155f7;TDevMarquez;2026-10-15;#7 document CSV import errors
+260e73dc445a58518c210bbc62562df7f217d219;TDevMarquez;2026-10-15;#7 document CSV data importer
+060e74daab6f4990fae698796df6104c88024b24;TDevMarquez;2026-10-15;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+e9081f458a925d97475c0b92d31ba862872eab53;TDevMarquez;2026-10-15;#7 document robot domain classes with Javadocs
+092ea74a30f00a253d578675e8974afdfffb91bc;TDevMarquez;2026-10-15;#4 add QA report for USLP04 store listing
+14c626bfe606fc9638c746407ecb36ae6ffac381;Francisco Marques;2026-10-15;#3 keep only the template users table in DatabaseConfig
+73b6d613e78a21e5935f52747ae35bbb43329ff2;Francisco Marques;2026-10-15;#3 use one database for checking the connection and listing stores
+08b50c9c29cd2aac8a84fbd4df3983d2374b04e9;Francisco Marques;2026-10-15;#3 add Shopping schema integration tests
+b644d61f1d5638b880c6d11e3a276a8a28222fa7;Francisco Marques;2026-10-15;#3 create Shopping tables aligned with the relational model
+268494c5a1d2d8cfdd3a63a81a1a8e33cbe43a06;Francisco Marques;2026-10-15;#3 make ConnectionFactory a DataSource shared by all Shopping DAOs
+163b3058706d0a05245adeee5d05f21aaa54fd35;TDevMarquez;2026-10-15;#7 unify order domain model names
+26f81a16ddb03cd85c1e071dc1454fee000cdef4;TDevMarquez;2026-10-15;Merge origin/main into USEI01 documentation
+d08f07f8a83c1c3785dacb0b59262855098bf176;TDevMarquez;2026-10-15;#7 document purchase item and order domain models
+117f08ca1629aea423554f67521bbf7b3bc9da8c;Gonçalo Abreu;2026-10-15;#4 add unit tests and update acceptance criteria documentation
+6e0d17ad4b2564858644e9f605aabac32f69969a;Gonçalo Abreu;2026-10-15;#4 integrate store listing in shopping menu and main
+9b19e6da78563a459b8261017576734f9c9e7c71;Gonçalo Abreu;2026-10-15;#4 add jdbc implementations for level and store daos
+b57bb5c5e8cfd6f668710944532156db84d442e6;Gonçalo Abreu;2026-10-15;#4 add list stores controller
+483814ad38788b59e194e94a3c07bf463a253ed0;Gonçalo Abreu;2026-10-15;#4 add level and store dao interfaces
+8b1cf435daa5a419db8145ed2f7d89c865b1b38c;Gonçalo Abreu;2026-10-15;#4 add shopping level and store domain entities (models)
+f2d9af602af7765845daecf133aaeaddfeb483dd;TDevMarquez;2026-10-15;#7 implement CSV import into JCF structures
+5add75d49bda638d15f0086fd428e416c12fa8ae;Francisco Marques;2026-10-15;docs: describe repository structure and single MVC application
+73cd2c8f5339eea633d63fe621553d96bd24af0a;Francisco Marques;2026-10-15;#13 fix links to V2 domain model
+ada0f96b0659e467f8fde976ee7150044f357875;Francisco Marques;2026-10-15;#15 fix links to V2 conceptual and domain models
+de92bccdd0cde2412d6e8fefa424fd859f99ce26;Francisco Marques;2026-10-15;#16 fix links to V2 conceptual and domain models
+054ef025d9d203c30852e4d3be2f583d3e75b579;Francisco Marques;2026-10-15;#14 approve USBD03 after re-test of V2 model
+f31676a840364a1210ec03a29ca79c96ccdc46c2;Francisco Marques;2026-10-15;#3 merge Java applications into a single MVC application
+a393cf103a4c0643c75b6a1cc93e57f385832626;JoaoFerreira420;2026-10-14;#1 mark USLP01 acceptance criteria and DoD as done
+ccc000bb6ddeae4cbad452a9894b64521e1d477c;JoaoFerreira420;2026-10-14;#1 update USLP01 QA report after glossary fix
+3ce06ecdce27289834c817abba4661801ffa2a1e;JoaoFerreira420;2026-10-14;#2 update glossary to V2 domain model
+4d52ae88e4dcd058be70e8c236e147ce1588c259;JoaoFerreira420;2026-10-14;#1 add USLP01 QA report
+f2c2108c6c377c467f3f1f4689ed18df14d9badb;JoaoFerreira420;2026-10-14;#1 update USLP01 readme
+2b03a82fe854a92207d81a641392417fd64f2ebf;JoaoFerreira420;2026-10-14;#1 update doc readme to V2 domain model
+e2cfaa82e6e99185e4234345844c25a65a8e87fb;JoaoFerreira420;2026-10-14;#1 add V2 domain model svg
+40a5462c7ea3176c0699debb2ddc67bc03eeee3c;JoaoFerreira420;2026-10-14;#1 rename domain model svg to V1
+8ebbe74a11990ce98ad37d08363a6fd5d2002e5f;Gonçalo Abreu;2026-10-14;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+a9c487271dedb06dae0093033ee693aed9f5c14a;Gonçalo Abreu;2026-10-14;#4 add class diagram for store listing by level
+ef5b21f43c0c1ab2ffc84441fe3c628d0aa9b4aa;JoaoFerreira420;2026-10-14;#14  update USBD03 readme links to V2 diagrams
+efcdb4a582c3f71e1b4f59a93b3284a87b5e67e9;Gonçalo Abreu;2026-10-14;#4  add sequence diagram for store listing by level
+73904c54747896e35603ce8315dbd47cf8883cea;TDevMarquez;2026-10-14;#15 update relational model and documentation for USBD04
+db5fb7b4531838d97ca778b6df270c0c1ec569c0;Francisco Marques;2026-10-14;#3 add shopping text menu tests
+e16c8287b758150957b166dffd7fcc5219bdd691;Francisco Marques;2026-10-14;#3 add shopping text menu
+540247b9bab01e1c6a81358b0614e7cc256cdffe;JoaoFerreira420;2026-10-14;#1 Domain Model puml updated to V2
+073c74db1a5ea3565d94c44fcac54662405571c6;JoaoFerreira420;2026-10-13;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+ca8533dd712e742856555d870fef938f0727c273;JoaoFerreira420;2026-10-13;#14 add USBD03 user story documentation
+c3beca3eebc011be78e555db6c05512eec9ea64d;Francisco Marques;2026-10-13;#3 add shopping controller
+2763b9d86962340c60a4771a14840a11cf281052;JoaoFerreira420;2026-10-13;#14 Conceptual Data Model svg updated to V2
+4cef44f7e85220604f32f84f862043cf13906ae9;Francisco Marques;2026-10-13;#3 add JDBC implementation of database info DAO
+07f8901313221985ce2d98aff5d467c8b1a125c8;Francisco Marques;2026-10-13;#3 add JDBC implementation of database info DAO
+1a99f3bd34f6076ab61bc68e875b6bd8843dd5bb;Francisco Marques;2026-10-13;#3 add database info DAO interface
+0f776eb7984da9a6299fe9198eb47ca6691bf0d4;Francisco Marques;2026-10-13;#3 add JDBC connection factory
+217fa6e7d01ba7138cf646de6d6eff240b4dece1;Francisco Marques;2026-10-13;#3 add database settings read from environment variables
+42829b38105e0d2d99349611d427e3ba42994d50;Francisco Marques;2026-10-13;#3 add database settings read from environment variables
+e901711368258f9994e0405f91e2b3f18c2a0567;JoaoFerreira420;2026-10-13;#14 Conceptual Data Model puml updated to V2
+9674fd857b75d7c57cbef5639bac060b4b444ae1;Francisco Marques;2026-10-13;#14 add USBD03 QA report
+087fb41e48aee79ca531f971f1713eb6c7eb525c;Francisco Marques;2026-10-13;#16 add USBD05 user story documentation
+e06680e68a08e869bd30e733b999f62134fed41a;Francisco Marques;2026-10-13;#16 add constraint tests for new tables and positive tests
+30d078285d2f07d6055cae849633488dc97fd884;Francisco Marques;2026-10-13;#16 add verification queries for new tables and client rules
+037e7c3fae4361b1690ded6fed2de05c3c95ce34;Francisco Marques;2026-10-13;#16 separate refrigerated items in sub-orders and add data for new tables
+789954421bdfc2fd473109792e42c19d400c026c;Francisco Marques;2026-10-13;#16 fix DDL after USBD04 QA and add cart, route, stop, station movement and corridor tables
+1069abe78dc1857589025ba7f86f6286c3b29856;Francisco Marques;2026-10-13;#16 add new tables to drop script
+cbfac8278c00d77e48fbc5d2e53b33e7bbdd8ccb;Gonçalo Abreu;2026-10-13;#4 Add USLP04 Store Listing by Floor via JDBC documentation
+4b746f2add27bb836bb5665b7de5fbbb29ec64d2;Borges27;2026-10-13;#15 QA file after testing
+d3417ee92aa23a080b9179d83c32ffb7453ed505;Borges27;2026-10-13;#9 Javadoc to OrderStatus
+39d0dda301c80f0b21a795b3a4af6f8ecf756659;Borges27;2026-10-13;#9 Javadocs to OrderQueue
+ee2a48b93dc9f1d91566bec639dd903650a58b4e;Borges27;2026-10-13;#9 javadocs to Order
+267f02d2431e928ff48469b8037a5957abe15619;Gonçalo Abreu;2026-10-13;#12 Update requirements document with client session logs
+9bb32cc2796c55dbf2a244aea63515cf1fad7557;TDevMarquez;2026-10-13;#15 add README for USBD04 relational model
+813c9e87d9ba706f6bf826c1a3252bcd079e5260;Borges27;2026-10-09;#13 US Documentation
+3e0fa6cee527425f444dce953c58cf4a5f93ed1e;Francisco Marques;2026-10-09;#16 add constraint negative tests
+96ead19676d54c7c34b7984c90e77e7355e247cf;JoaoFerreira420;2026-10-09;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+e5a76c0c956592fecf9c77bbfcedf9f536ea586b;JoaoFerreira420;2026-10-09;docs: Folder organization
+9ff7fb9e351ee223da34b82ff00e0df6afd9b1c1;Francisco Marques;2026-10-09;#16 add verification queries for requirements and business rules
+e3284273a4afb4be8a122db6c6e0a15402082aa7;Gonçalo Abreu;2026-10-09;#12 update requirements document to v1.1
+673d09be8c806e8785bcd07db870b26fe2959176;Francisco Marques;2026-10-09;#16 add test data inserts for all tables
+897abd4563b3df9e2c8fdfccc0130dfbb94f68eb;Borges27;2026-10-09;#9 Order and OrderQueue Testfiles
+9606cfa5fd430a544d5fbb501ccc08b8b82468b4;JoaoFerreira420;2026-10-09;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+fc3145de5942223aef609d1b668d22da480fee63;JoaoFerreira420;2026-10-09;#2 Project glossary
+6acf0923a1960b56bf2a8968f7725fba07069304;Francisco Marques;2026-10-09;#16 add create tables script with constraints for Oracle
+f04854391ece1ec6b3655a991ca1653a50f8e73d;Francisco Marques;2026-10-09;#16 add drop tables script
+efa9e7b79e9e3f2b2fa6d90a14d13403c95e00a8;TDevMarquez;2026-10-09;organize schema structure
+ef129970eb7d6791113c90d034cc430e990e16ba;TDevMarquez;2026-10-09;#15 add logical relational model in 3NF
+108346254f5d78be1bced9eaa27e658d561a2e60;JoaoFerreira420;2026-10-08;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+54c61bfbc9695d8d50592eef4a60b7521babec19;JoaoFerreira420;2026-10-08;#14 Conceptual Data Model
+1ca5ce196711f78cd85459aa58939f50cfdb9663;Borges27;2026-10-08;#9 Creation of OrderStatus as enum
+d52c5b23f88912a0e406ac0763d56808bb2cb6d8;Borges27;2026-10-08;#9 Order and OrderQueue Classes
+7c2ad47d9fe75175b9e242f92a2daebbe834ec7e;Borges27;2026-10-08;#13 DBGlossary update according to new Domain Model
+f38fa15ec9442eb4b29fd0431792c02ce3148443;Gonçalo Abreu;2026-10-07;docs(requirements): create initial project requirements document
+4b11183a30a6741e0119ee20d1cf4db7ba87f37c;JoaoFerreira420;2026-10-07;docs: fix domain model PlantUML rendering
+560ee535643a919348729a072dbeef9a605809f0;JoaoFerreira420;2026-10-07;docs: modify domain model SVG diagram color background
+3ff7ea385b07766d291b2783f8f91d93c5f51e18;JoaoFerreira420;2026-10-07;Merge branch 'main' of https://github.com/Departamento-de-Engenharia-Informatica/SEM3PI-26-27-2DE02
+207c56af2ce4bfa1dcd62535f3457141ca01ff1f;JoaoFerreira420;2026-10-07;docs: add domain model PlantUML diagram and SVG export
+0380d3dc9f800b3d59c2a7f36afb73544c244087;Borges27;2026-10-07;New DBGlossary format according to BDAD professor advice
+c873b347352d3721727e395ce4dfb71bd9a6e5bf;Borges27;2026-10-06;DBGlossary first draft
+d8e787e295562694d55942323c5866790c822149;Borges27;2026-10-02;DBGlossary Template
+4548bffc97631f55c540069c0d7ab7304c8eff9a;João Pedro Silva Ferreira;2026-10-01;ci(pre-commit): add pre-commit git hook and local validation workflow
+cfd461a42cd889a6edfd1d1f4956596569801e76;Gonçalo Abreu;2026-10-01;docs(requirements): create requirements document structure and outline
+1453453f8be1fc9860db4fc0910f501b01665b24;João Ferreira;2026-09-30;Fix formatting of team member tasks in readme
+3d53fdd3324ec66c74bdefea66556a7a1c46fb2c;João Ferreira;2026-09-30;Remove links from team member tasks in readme
+d02562233e6e06239dbaa5fecf215bbfd32f2f54;Borges27;2026-09-30;Team Members
